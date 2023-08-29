@@ -1,0 +1,3327 @@
+fileFormatVersion: 2
+guid: 08867b1367a31f340bf8e8759ada5870
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6223625490743543190
+    second: Jump1
+  - first:
+      213: 3026286113141133481
+    second: Jump2
+  - first:
+      213: 7274398003989823734
+    second: PC Computer - Broforce - Rambro (1)_2
+  - first:
+      213: -7917202518882347797
+    second: Jump3
+  - first:
+      213: 4610787876127557952
+    second: PC Computer - Broforce - Rambro (1)_4
+  - first:
+      213: 3125207069237901479
+    second: PC Computer - Broforce - Rambro (1)_5
+  - first:
+      213: -4356828657503766122
+    second: climbLeft1
+  - first:
+      213: -2404300623962525898
+    second: climbLeft2
+  - first:
+      213: -6486413369044163276
+    second: PC Computer - Broforce - Rambro (1)_8
+  - first:
+      213: 1132969039272205860
+    second: climbRight1
+  - first:
+      213: -2638013281408126951
+    second: climbRight2
+  - first:
+      213: -8684485452203677775
+    second: PC Computer - Broforce - Rambro (1)_11
+  - first:
+      213: -34201046387820373
+    second: PC Computer - Broforce - Rambro (1)_12
+  - first:
+      213: 7653602732080573246
+    second: PC Computer - Broforce - Rambro (1)_13
+  - first:
+      213: -4165760034142540980
+    second: PC Computer - Broforce - Rambro (1)_14
+  - first:
+      213: -7405274304370512652
+    second: PC Computer - Broforce - Rambro (1)_15
+  - first:
+      213: -490157959757974088
+    second: PC Computer - Broforce - Rambro (1)_16
+  - first:
+      213: -8194447270345470429
+    second: PC Computer - Broforce - Rambro (1)_17
+  - first:
+      213: -5599075370707462100
+    second: PC Computer - Broforce - Rambro (1)_18
+  - first:
+      213: -1800104825875776752
+    second: PC Computer - Broforce - Rambro (1)_19
+  - first:
+      213: 5756174991999669433
+    second: PC Computer - Broforce - Rambro (1)_20
+  - first:
+      213: 3765321258484146431
+    second: PC Computer - Broforce - Rambro (1)_21
+  - first:
+      213: -5578517658774132289
+    second: PC Computer - Broforce - Rambro (1)_22
+  - first:
+      213: -3964269172905985843
+    second: PC Computer - Broforce - Rambro (1)_23
+  - first:
+      213: 4103797102948196145
+    second: PC Computer - Broforce - Rambro (1)_24
+  - first:
+      213: 9162488509033729445
+    second: PC Computer - Broforce - Rambro (1)_25
+  - first:
+      213: -9096548065421493118
+    second: PC Computer - Broforce - Rambro (1)_26
+  - first:
+      213: 7736554700726296896
+    second: PC Computer - Broforce - Rambro (1)_27
+  - first:
+      213: -1219369063063883852
+    second: PC Computer - Broforce - Rambro (1)_28
+  - first:
+      213: 7589453189220177078
+    second: PC Computer - Broforce - Rambro (1)_29
+  - first:
+      213: -8321182594288622337
+    second: Walk1
+  - first:
+      213: -413017751595584026
+    second: Walk2
+  - first:
+      213: 5335944626152283116
+    second: Walk3
+  - first:
+      213: -8423071531172846708
+    second: Walk4
+  - first:
+      213: 5246985788263006114
+    second: Walk5
+  - first:
+      213: -1360192912793314664
+    second: Walk6
+  - first:
+      213: -2663707248675007933
+    second: Walk7
+  - first:
+      213: -4042323630362103974
+    second: Walk8
+  - first:
+      213: 5797244456434559486
+    second: Idle
+  - first:
+      213: 2198689221829138160
+    second: Throw1
+  - first:
+      213: -7890966587922541815
+    second: Throw2
+  - first:
+      213: -2394567414122349049
+    second: Throw3
+  - first:
+      213: 7274481132456222938
+    second: PC Computer - Broforce - Rambro (1)_42
+  - first:
+      213: 2759312705630120012
+    second: Throw4
+  - first:
+      213: 2159104616365747352
+    second: Throw5
+  - first:
+      213: 846804209243339026
+    second: PC Computer - Broforce - Rambro (1)_45
+  - first:
+      213: 7233474199923165969
+    second: PC Computer - Broforce - Rambro (1)_46
+  - first:
+      213: -1954323213771102513
+    second: PC Computer - Broforce - Rambro (1)_47
+  - first:
+      213: 6059091028766817047
+    second: PC Computer - Broforce - Rambro (1)_48
+  - first:
+      213: -4886744148288234670
+    second: PC Computer - Broforce - Rambro (1)_49
+  - first:
+      213: -9116915275803256002
+    second: PC Computer - Broforce - Rambro (1)_50
+  - first:
+      213: -7240949851412920272
+    second: PC Computer - Broforce - Rambro (1)_51
+  - first:
+      213: -8977622017975354291
+    second: PC Computer - Broforce - Rambro (1)_52
+  - first:
+      213: -7507921319381534764
+    second: PC Computer - Broforce - Rambro (1)_53
+  - first:
+      213: 503135575872376165
+    second: PC Computer - Broforce - Rambro (1)_54
+  - first:
+      213: -902482998854357665
+    second: PC Computer - Broforce - Rambro (1)_55
+  - first:
+      213: 7353368464408619492
+    second: PC Computer - Broforce - Rambro (1)_56
+  - first:
+      213: 2011382892416580240
+    second: PC Computer - Broforce - Rambro (1)_57
+  - first:
+      213: 6730780180008331458
+    second: PC Computer - Broforce - Rambro (1)_58
+  - first:
+      213: 8565127007260041975
+    second: PC Computer - Broforce - Rambro (1)_59
+  - first:
+      213: 7485505095315606187
+    second: PC Computer - Broforce - Rambro (1)_60
+  - first:
+      213: 20955992844918243
+    second: PC Computer - Broforce - Rambro (1)_61
+  - first:
+      213: 5597702522308777608
+    second: PC Computer - Broforce - Rambro (1)_62
+  - first:
+      213: -652664762198521887
+    second: PC Computer - Broforce - Rambro (1)_63
+  - first:
+      213: 173656022351955982
+    second: PC Computer - Broforce - Rambro (1)_64
+  - first:
+      213: 8797264977344281550
+    second: PC Computer - Broforce - Rambro (1)_65
+  - first:
+      213: 7910820725396811798
+    second: PC Computer - Broforce - Rambro (1)_66
+  - first:
+      213: -3601227704921320163
+    second: PC Computer - Broforce - Rambro (1)_67
+  - first:
+      213: -3562089382884953950
+    second: PC Computer - Broforce - Rambro (1)_68
+  - first:
+      213: -5378181447498385576
+    second: PC Computer - Broforce - Rambro (1)_69
+  - first:
+      213: -5011325432177374262
+    second: PC Computer - Broforce - Rambro (1)_70
+  - first:
+      213: -4371216781086328987
+    second: PC Computer - Broforce - Rambro (1)_71
+  - first:
+      213: 5851832762411127352
+    second: PC Computer - Broforce - Rambro (1)_72
+  - first:
+      213: 2339151772731492211
+    second: PC Computer - Broforce - Rambro (1)_73
+  - first:
+      213: -2954284163589576145
+    second: PC Computer - Broforce - Rambro (1)_74
+  - first:
+      213: -4305480017896442487
+    second: PC Computer - Broforce - Rambro (1)_75
+  - first:
+      213: 8080809592267034133
+    second: PC Computer - Broforce - Rambro (1)_76
+  - first:
+      213: -2639312970774450746
+    second: PC Computer - Broforce - Rambro (1)_77
+  - first:
+      213: 6234774642964067830
+    second: PC Computer - Broforce - Rambro (1)_78
+  - first:
+      213: 8099871059304409100
+    second: PC Computer - Broforce - Rambro (1)_79
+  - first:
+      213: 5235571124304909164
+    second: PC Computer - Broforce - Rambro (1)_80
+  - first:
+      213: 6463572529351070072
+    second: PC Computer - Broforce - Rambro (1)_81
+  - first:
+      213: -378307477342614142
+    second: PC Computer - Broforce - Rambro (1)_82
+  - first:
+      213: 7508332082805238656
+    second: PC Computer - Broforce - Rambro (1)_83
+  - first:
+      213: -2090754912784505661
+    second: PC Computer - Broforce - Rambro (1)_84
+  - first:
+      213: -5857247687762893663
+    second: PC Computer - Broforce - Rambro (1)_85
+  - first:
+      213: -1434933838882052393
+    second: PC Computer - Broforce - Rambro (1)_86
+  - first:
+      213: -9040077440396633066
+    second: PC Computer - Broforce - Rambro (1)_87
+  - first:
+      213: -8195501796174675243
+    second: PC Computer - Broforce - Rambro (1)_88
+  - first:
+      213: -190181471378239652
+    second: PC Computer - Broforce - Rambro (1)_89
+  - first:
+      213: -6155707233992671248
+    second: PC Computer - Broforce - Rambro (1)_90
+  - first:
+      213: -7420259891130076818
+    second: PC Computer - Broforce - Rambro (1)_91
+  - first:
+      213: 5334448351639022716
+    second: PC Computer - Broforce - Rambro (1)_92
+  - first:
+      213: 2772331168519171286
+    second: PC Computer - Broforce - Rambro (1)_93
+  - first:
+      213: 1989213208719107884
+    second: PC Computer - Broforce - Rambro (1)_94
+  - first:
+      213: 6783806624704908402
+    second: PC Computer - Broforce - Rambro (1)_95
+  - first:
+      213: -80912435617366236
+    second: PC Computer - Broforce - Rambro (1)_96
+  - first:
+      213: -1669208683519383282
+    second: PC Computer - Broforce - Rambro (1)_97
+  - first:
+      213: 6277842910383557494
+    second: PC Computer - Broforce - Rambro (1)_98
+  - first:
+      213: 4043581399142856230
+    second: PC Computer - Broforce - Rambro (1)_99
+  - first:
+      213: -7845039002405816960
+    second: PC Computer - Broforce - Rambro (1)_100
+  - first:
+      213: 6751476891430285990
+    second: PC Computer - Broforce - Rambro (1)_101
+  - first:
+      213: -3379923221710456934
+    second: PC Computer - Broforce - Rambro (1)_102
+  - first:
+      213: 6727440609076769448
+    second: PC Computer - Broforce - Rambro (1)_103
+  - first:
+      213: -8869848892033926242
+    second: PC Computer - Broforce - Rambro (1)_104
+  - first:
+      213: 3389437729646449951
+    second: PC Computer - Broforce - Rambro (1)_105
+  - first:
+      213: -3524609944574228318
+    second: PC Computer - Broforce - Rambro (1)_106
+  - first:
+      213: 9016467870856095954
+    second: PC Computer - Broforce - Rambro (1)_107
+  - first:
+      213: 472407969621739181
+    second: PC Computer - Broforce - Rambro (1)_108
+  - first:
+      213: -7057716183645720972
+    second: PC Computer - Broforce - Rambro (1)_109
+  - first:
+      213: 228531443255147482
+    second: PC Computer - Broforce - Rambro (1)_110
+  - first:
+      213: -6666521909916833981
+    second: PC Computer - Broforce - Rambro (1)_111
+  - first:
+      213: 5080895580852867104
+    second: PC Computer - Broforce - Rambro (1)_112
+  - first:
+      213: -2951688463159255375
+    second: PC Computer - Broforce - Rambro (1)_113
+  - first:
+      213: -6889562523664436830
+    second: PC Computer - Broforce - Rambro (1)_114
+  - first:
+      213: 7881753407261246457
+    second: PC Computer - Broforce - Rambro (1)_115
+  - first:
+      213: 2931315938789176338
+    second: PC Computer - Broforce - Rambro (1)_116
+  - first:
+      213: 6247136136834130343
+    second: PC Computer - Broforce - Rambro (1)_117
+  - first:
+      213: -8421759857062007059
+    second: PC Computer - Broforce - Rambro (1)_118
+  - first:
+      213: -8288897435826999599
+    second: PC Computer - Broforce - Rambro (1)_119
+  - first:
+      213: 2590703509324321349
+    second: PC Computer - Broforce - Rambro (1)_120
+  - first:
+      213: 5823219903141462559
+    second: PC Computer - Broforce - Rambro (1)_121
+  - first:
+      213: -984128735792762115
+    second: PC Computer - Broforce - Rambro (1)_122
+  - first:
+      213: -1903340196611824019
+    second: PC Computer - Broforce - Rambro (1)_123
+  - first:
+      213: -3063303282400085740
+    second: PC Computer - Broforce - Rambro (1)_124
+  - first:
+      213: -5084088697245337353
+    second: PC Computer - Broforce - Rambro (1)_125
+  - first:
+      213: 5020987943565931580
+    second: PC Computer - Broforce - Rambro (1)_126
+  - first:
+      213: 2345338305722478872
+    second: PC Computer - Broforce - Rambro (1)_127
+  - first:
+      213: -2505567043813875281
+    second: PC Computer - Broforce - Rambro (1)_128
+  - first:
+      213: -5484964061687745168
+    second: PC Computer - Broforce - Rambro (1)_129
+  - first:
+      213: 6892290036093093790
+    second: PC Computer - Broforce - Rambro (1)_130
+  - first:
+      213: -6090825332117267914
+    second: PC Computer - Broforce - Rambro (1)_131
+  - first:
+      213: -6146180261228833746
+    second: PC Computer - Broforce - Rambro (1)_132
+  - first:
+      213: -487944761869788033
+    second: PC Computer - Broforce - Rambro (1)_133
+  - first:
+      213: -9047889479730663470
+    second: PC Computer - Broforce - Rambro (1)_134
+  - first:
+      213: -3501325608519344491
+    second: PC Computer - Broforce - Rambro (1)_135
+  - first:
+      213: 4505885275760073749
+    second: PC Computer - Broforce - Rambro (1)_136
+  - first:
+      213: 3171053327004424816
+    second: PC Computer - Broforce - Rambro (1)_137
+  - first:
+      213: 8048895635366293922
+    second: PC Computer - Broforce - Rambro (1)_138
+  - first:
+      213: 748412048408305130
+    second: PC Computer - Broforce - Rambro (1)_139
+  - first:
+      213: -1077806716322106533
+    second: PC Computer - Broforce - Rambro (1)_140
+  - first:
+      213: -7022031338989032090
+    second: PC Computer - Broforce - Rambro (1)_141
+  - first:
+      213: -118357043979499197
+    second: PC Computer - Broforce - Rambro (1)_142
+  - first:
+      213: -7890150077726652015
+    second: PC Computer - Broforce - Rambro (1)_143
+  - first:
+      213: 1671242755096770818
+    second: PC Computer - Broforce - Rambro (1)_144
+  - first:
+      213: -8229637101270486135
+    second: PC Computer - Broforce - Rambro (1)_145
+  - first:
+      213: 931205645376405762
+    second: PC Computer - Broforce - Rambro (1)_146
+  - first:
+      213: 1113387408144309314
+    second: PC Computer - Broforce - Rambro (1)_147
+  - first:
+      213: 5416613460827920627
+    second: PC Computer - Broforce - Rambro (1)_148
+  - first:
+      213: 8549905661336647196
+    second: PC Computer - Broforce - Rambro (1)_149
+  - first:
+      213: -286124649597625989
+    second: PC Computer - Broforce - Rambro (1)_150
+  - first:
+      213: 5457386488178589580
+    second: PC Computer - Broforce - Rambro (1)_151
+  - first:
+      213: -648065660081136692
+    second: PC Computer - Broforce - Rambro (1)_152
+  - first:
+      213: 448301151733069556
+    second: PC Computer - Broforce - Rambro (1)_153
+  - first:
+      213: -829227343515943259
+    second: PC Computer - Broforce - Rambro (1)_154
+  - first:
+      213: 5733205360065856693
+    second: PC Computer - Broforce - Rambro (1)_155
+  - first:
+      213: 2946387346442981619
+    second: PC Computer - Broforce - Rambro (1)_156
+  - first:
+      213: -7480260524032048570
+    second: PC Computer - Broforce - Rambro (1)_157
+  - first:
+      213: 1240101923304424741
+    second: PC Computer - Broforce - Rambro (1)_158
+  - first:
+      213: 1449354579569760243
+    second: PC Computer - Broforce - Rambro (1)_159
+  - first:
+      213: -4452119623978276711
+    second: PC Computer - Broforce - Rambro (1)_160
+  - first:
+      213: 8227628986785338231
+    second: PC Computer - Broforce - Rambro (1)_161
+  - first:
+      213: -394601815995738468
+    second: PC Computer - Broforce - Rambro (1)_162
+  - first:
+      213: 6912002654192465711
+    second: PC Computer - Broforce - Rambro (1)_163
+  - first:
+      213: 3695247095496440211
+    second: PC Computer - Broforce - Rambro (1)_164
+  - first:
+      213: -4533047896638880693
+    second: PC Computer - Broforce - Rambro (1)_165
+  - first:
+      213: 4157337240944363695
+    second: PC Computer - Broforce - Rambro (1)_166
+  - first:
+      213: -3174678217214685419
+    second: PC Computer - Broforce - Rambro (1)_167
+  - first:
+      213: -6041024305891446652
+    second: PC Computer - Broforce - Rambro (1)_168
+  - first:
+      213: 3791790806152581512
+    second: PC Computer - Broforce - Rambro (1)_169
+  - first:
+      213: 29378165828933588
+    second: PC Computer - Broforce - Rambro (1)_170
+  - first:
+      213: -4533405733504909349
+    second: PC Computer - Broforce - Rambro (1)_171
+  - first:
+      213: 216181918549626804
+    second: PC Computer - Broforce - Rambro (1)_172
+  - first:
+      213: -1351535874261522744
+    second: PC Computer - Broforce - Rambro (1)_173
+  - first:
+      213: -7239922523051141734
+    second: PC Computer - Broforce - Rambro (1)_174
+  - first:
+      213: -7401895945871281510
+    second: PC Computer - Broforce - Rambro (1)_175
+  - first:
+      213: -3649298077058564990
+    second: PC Computer - Broforce - Rambro (1)_176
+  - first:
+      213: -1977134656992064363
+    second: PC Computer - Broforce - Rambro (1)_177
+  - first:
+      213: 3682770519372159068
+    second: PC Computer - Broforce - Rambro (1)_178
+  - first:
+      213: -1669678085637410975
+    second: PC Computer - Broforce - Rambro (1)_179
+  - first:
+      213: 6374663922328078784
+    second: Throw1
+  - first:
+      213: -37883428455548246
+    second: Throw2
+  - first:
+      213: -9180522637999426331
+    second: Throw3
+  - first:
+      213: -2892459072299992661
+    second: PC Computer - Broforce - Rambro (1)_183
+  - first:
+      213: -1563393443055008331
+    second: PC Computer - Broforce - Rambro (1)_184
+  - first:
+      213: -6228522165232191781
+    second: PC Computer - Broforce - Rambro (1)_185
+  - first:
+      213: 4242229785060839786
+    second: PC Computer - Broforce - Rambro (1)_186
+  - first:
+      213: -8758895843226245805
+    second: PC Computer - Broforce - Rambro (1)_187
+  - first:
+      213: 1137246515361232547
+    second: PC Computer - Broforce - Rambro (1)_188
+  - first:
+      213: 6985063462274583791
+    second: PC Computer - Broforce - Rambro (1)_189
+  - first:
+      213: -1676379678879321379
+    second: PC Computer - Broforce - Rambro (1)_190
+  - first:
+      213: 4049619744956964673
+    second: PC Computer - Broforce - Rambro (1)_191
+  - first:
+      213: 4491523947504769618
+    second: PC Computer - Broforce - Rambro (1)_192
+  - first:
+      213: 1992780094952675693
+    second: PC Computer - Broforce - Rambro (1)_193
+  - first:
+      213: 9148702217306817244
+    second: PC Computer - Broforce - Rambro (1)_194
+  - first:
+      213: -7879688828137224669
+    second: PC Computer - Broforce - Rambro (1)_195
+  - first:
+      213: -668239814894228994
+    second: PC Computer - Broforce - Rambro (1)_196
+  - first:
+      213: 8068025787856494242
+    second: PC Computer - Broforce - Rambro (1)_197
+  - first:
+      213: -6065417402612883526
+    second: PC Computer - Broforce - Rambro (1)_198
+  - first:
+      213: 412210846840639948
+    second: PC Computer - Broforce - Rambro (1)_199
+  - first:
+      213: -6227156619881810075
+    second: PC Computer - Broforce - Rambro (1)_200
+  - first:
+      213: -4435474597742209919
+    second: PC Computer - Broforce - Rambro (1)_201
+  - first:
+      213: -4613670164958571242
+    second: PC Computer - Broforce - Rambro (1)_202
+  - first:
+      213: 4803024809861737350
+    second: PC Computer - Broforce - Rambro (1)_203
+  - first:
+      213: 7369574449481677726
+    second: PC Computer - Broforce - Rambro (1)_204
+  - first:
+      213: 4485354527141231183
+    second: PC Computer - Broforce - Rambro (1)_205
+  - first:
+      213: 4776898221824625136
+    second: PC Computer - Broforce - Rambro (1)_206
+  - first:
+      213: 6491969022664616612
+    second: PC Computer - Broforce - Rambro (1)_207
+  - first:
+      213: 1970081581770939447
+    second: PC Computer - Broforce - Rambro (1)_208
+  - first:
+      213: 2724916985257388928
+    second: PC Computer - Broforce - Rambro (1)_209
+  - first:
+      213: 1055274212954968090
+    second: PC Computer - Broforce - Rambro (1)_210
+  - first:
+      213: -3904402208325285696
+    second: PC Computer - Broforce - Rambro (1)_211
+  - first:
+      213: -82674327897831630
+    second: PC Computer - Broforce - Rambro (1)_212
+  - first:
+      213: -1414939548487006221
+    second: PC Computer - Broforce - Rambro (1)_213
+  - first:
+      213: -8505534922370678149
+    second: PC Computer - Broforce - Rambro (1)_214
+  - first:
+      213: 8021531338056034288
+    second: PC Computer - Broforce - Rambro (1)_215
+  - first:
+      213: -972340364825572314
+    second: PC Computer - Broforce - Rambro (1)_216
+  - first:
+      213: 2917702419288161175
+    second: PC Computer - Broforce - Rambro (1)_217
+  - first:
+      213: -1531358725056429911
+    second: PC Computer - Broforce - Rambro (1)_218
+  - first:
+      213: -5523758736887225252
+    second: PC Computer - Broforce - Rambro (1)_219
+  - first:
+      213: -7772702358268447794
+    second: PC Computer - Broforce - Rambro (1)_220
+  - first:
+      213: -9219380168128662560
+    second: PC Computer - Broforce - Rambro (1)_221
+  - first:
+      213: 3824211992905534447
+    second: PC Computer - Broforce - Rambro (1)_222
+  - first:
+      213: 8063025271513991785
+    second: PC Computer - Broforce - Rambro (1)_223
+  - first:
+      213: 3947696031776969069
+    second: PC Computer - Broforce - Rambro (1)_224
+  - first:
+      213: 7507257268613461472
+    second: PC Computer - Broforce - Rambro (1)_225
+  - first:
+      213: 3365600603903582323
+    second: PC Computer - Broforce - Rambro (1)_226
+  - first:
+      213: -4033046237700637115
+    second: PC Computer - Broforce - Rambro (1)_227
+  - first:
+      213: 8407394690885239922
+    second: PC Computer - Broforce - Rambro (1)_228
+  - first:
+      213: -6770520116005064244
+    second: PC Computer - Broforce - Rambro (1)_229
+  - first:
+      213: -7908401156497785771
+    second: PC Computer - Broforce - Rambro (1)_230
+  - first:
+      213: -3041085556169578178
+    second: PC Computer - Broforce - Rambro (1)_231
+  - first:
+      213: -5139857938963590790
+    second: PC Computer - Broforce - Rambro (1)_232
+  - first:
+      213: 5603165768781104414
+    second: PC Computer - Broforce - Rambro (1)_233
+  - first:
+      213: 3463980919374462852
+    second: PC Computer - Broforce - Rambro (1)_234
+  - first:
+      213: -2291329437183726202
+    second: PC Computer - Broforce - Rambro (1)_235
+  - first:
+      213: -4517659713170687030
+    second: PC Computer - Broforce - Rambro (1)_236
+  - first:
+      213: 6895405783300476096
+    second: PC Computer - Broforce - Rambro (1)_237
+  - first:
+      213: -2870517082880622898
+    second: PC Computer - Broforce - Rambro (1)_238
+  - first:
+      213: 574562773736776770
+    second: PC Computer - Broforce - Rambro (1)_239
+  - first:
+      213: 3007572210372072328
+    second: PC Computer - Broforce - Rambro (1)_240
+  - first:
+      213: 1813237375186503739
+    second: PC Computer - Broforce - Rambro (1)_241
+  - first:
+      213: 2948832305940346086
+    second: PC Computer - Broforce - Rambro (1)_242
+  - first:
+      213: -744984366147777747
+    second: PC Computer - Broforce - Rambro (1)_243
+  - first:
+      213: -5620426582591059517
+    second: PC Computer - Broforce - Rambro (1)_244
+  - first:
+      213: -450145534475570873
+    second: PC Computer - Broforce - Rambro (1)_245
+  - first:
+      213: -4376103902739272920
+    second: PC Computer - Broforce - Rambro (1)_246
+  - first:
+      213: -3065419032881621149
+    second: PC Computer - Broforce - Rambro (1)_247
+  - first:
+      213: -5418565571649082617
+    second: PC Computer - Broforce - Rambro (1)_248
+  - first:
+      213: 1167073164420258583
+    second: PC Computer - Broforce - Rambro (1)_249
+  - first:
+      213: 4805819139891266647
+    second: PC Computer - Broforce - Rambro (1)_250
+  - first:
+      213: -800677521499201408
+    second: PC Computer - Broforce - Rambro (1)_251
+  - first:
+      213: -908894331588288130
+    second: PC Computer - Broforce - Rambro (1)_252
+  - first:
+      213: -2562100592468171775
+    second: PC Computer - Broforce - Rambro (1)_253
+  - first:
+      213: 7657243454777556563
+    second: PC Computer - Broforce - Rambro (1)_254
+  - first:
+      213: 2173954842976960817
+    second: PC Computer - Broforce - Rambro (1)_255
+  - first:
+      213: 3313016638410976370
+    second: PC Computer - Broforce - Rambro (1)_256
+  - first:
+      213: -868960500642288067
+    second: PC Computer - Broforce - Rambro (1)_257
+  - first:
+      213: -1332136744380634458
+    second: PC Computer - Broforce - Rambro (1)_258
+  - first:
+      213: -3518265996317272358
+    second: PC Computer - Broforce - Rambro (1)_259
+  - first:
+      213: -7916483230515045460
+    second: PC Computer - Broforce - Rambro (1)_260
+  - first:
+      213: 1115593314789183498
+    second: PC Computer - Broforce - Rambro (1)_261
+  - first:
+      213: -5707589348557922098
+    second: PC Computer - Broforce - Rambro (1)_262
+  - first:
+      213: -6610813668153314546
+    second: PC Computer - Broforce - Rambro (1)_263
+  - first:
+      213: -283516114117057
+    second: PC Computer - Broforce - Rambro (1)_264
+  - first:
+      213: -3240968417356958038
+    second: PC Computer - Broforce - Rambro (1)_265
+  - first:
+      213: 1066197831149957959
+    second: PC Computer - Broforce - Rambro (1)_266
+  - first:
+      213: 620044729080396326
+    second: PC Computer - Broforce - Rambro (1)_267
+  - first:
+      213: -8027362980443560926
+    second: PC Computer - Broforce - Rambro (1)_268
+  - first:
+      213: 1066526405014446872
+    second: PC Computer - Broforce - Rambro (1)_269
+  - first:
+      213: 5801537659561571527
+    second: PC Computer - Broforce - Rambro (1)_270
+  - first:
+      213: -3821652435051225064
+    second: PC Computer - Broforce - Rambro (1)_271
+  - first:
+      213: 6395063448214267722
+    second: PC Computer - Broforce - Rambro (1)_272
+  - first:
+      213: 6721271710744107404
+    second: PC Computer - Broforce - Rambro (1)_273
+  - first:
+      213: 4504364374310477441
+    second: PC Computer - Broforce - Rambro (1)_274
+  - first:
+      213: -4527409604511336493
+    second: PC Computer - Broforce - Rambro (1)_275
+  - first:
+      213: -3135801595170974618
+    second: PC Computer - Broforce - Rambro (1)_276
+  - first:
+      213: -1988730311738453861
+    second: PC Computer - Broforce - Rambro (1)_277
+  - first:
+      213: 6729608840209863526
+    second: PC Computer - Broforce - Rambro (1)_278
+  - first:
+      213: 2533688158492743777
+    second: PC Computer - Broforce - Rambro (1)_279
+  - first:
+      213: 342633696219919675
+    second: PC Computer - Broforce - Rambro (1)_280
+  - first:
+      213: -5209944029769062190
+    second: PC Computer - Broforce - Rambro (1)_281
+  - first:
+      213: -5068350262849717211
+    second: PC Computer - Broforce - Rambro (1)_282
+  - first:
+      213: 7813028821945553312
+    second: PC Computer - Broforce - Rambro (1)_283
+  - first:
+      213: 7475667297999892894
+    second: PC Computer - Broforce - Rambro (1)_284
+  - first:
+      213: 776965526133820493
+    second: PC Computer - Broforce - Rambro (1)_285
+  - first:
+      213: -7158065755600127816
+    second: PC Computer - Broforce - Rambro (1)_286
+  - first:
+      213: -3409199117239508835
+    second: PC Computer - Broforce - Rambro (1)_287
+  - first:
+      213: 3774113232834066336
+    second: PC Computer - Broforce - Rambro (1)_288
+  - first:
+      213: 8798854701970019907
+    second: PC Computer - Broforce - Rambro (1)_289
+  - first:
+      213: -1039549782739151843
+    second: PC Computer - Broforce - Rambro (1)_290
+  - first:
+      213: -7465005022844133199
+    second: PC Computer - Broforce - Rambro (1)_291
+  - first:
+      213: 4626206584790507463
+    second: PC Computer - Broforce - Rambro (1)_292
+  - first:
+      213: 6610574406560590395
+    second: PC Computer - Broforce - Rambro (1)_293
+  - first:
+      213: -8832593299695903701
+    second: PC Computer - Broforce - Rambro (1)_294
+  - first:
+      213: 6869130330138958693
+    second: PC Computer - Broforce - Rambro (1)_295
+  - first:
+      213: -7621373231229680399
+    second: PC Computer - Broforce - Rambro (1)_296
+  - first:
+      213: 2563075774304744754
+    second: PC Computer - Broforce - Rambro (1)_297
+  - first:
+      213: 7506062435026631160
+    second: PC Computer - Broforce - Rambro (1)_298
+  - first:
+      213: -7160593663690354953
+    second: PC Computer - Broforce - Rambro (1)_299
+  - first:
+      213: -8908653536334443482
+    second: PC Computer - Broforce - Rambro (1)_300
+  - first:
+      213: 5694703853419586420
+    second: PC Computer - Broforce - Rambro (1)_301
+  - first:
+      213: -6680818030136647982
+    second: PC Computer - Broforce - Rambro (1)_302
+  - first:
+      213: 8082490167610406193
+    second: PC Computer - Broforce - Rambro (1)_303
+  - first:
+      213: -3502068149330169587
+    second: PC Computer - Broforce - Rambro (1)_304
+  - first:
+      213: 1472237520019604402
+    second: PC Computer - Broforce - Rambro (1)_305
+  - first:
+      213: -8202666322156090442
+    second: PC Computer - Broforce - Rambro (1)_306
+  - first:
+      213: 7390157745310759733
+    second: PC Computer - Broforce - Rambro (1)_307
+  - first:
+      213: 5538836993298897460
+    second: PC Computer - Broforce - Rambro (1)_308
+  - first:
+      213: -1885859959617490148
+    second: PC Computer - Broforce - Rambro (1)_309
+  - first:
+      213: 4450222017967237894
+    second: PC Computer - Broforce - Rambro (1)_310
+  - first:
+      213: 5857118316862000035
+    second: PC Computer - Broforce - Rambro (1)_311
+  - first:
+      213: 2811573422695739053
+    second: PC Computer - Broforce - Rambro (1)_312
+  - first:
+      213: 1217642280455567047
+    second: PC Computer - Broforce - Rambro (1)_313
+  - first:
+      213: -1697384980679418628
+    second: PC Computer - Broforce - Rambro (1)_314
+  - first:
+      213: 4587162326694919469
+    second: PC Computer - Broforce - Rambro (1)_315
+  - first:
+      213: -8992197173137994988
+    second: PC Computer - Broforce - Rambro (1)_316
+  - first:
+      213: -4929592670954290737
+    second: PC Computer - Broforce - Rambro (1)_317
+  - first:
+      213: 8296905229885263546
+    second: PC Computer - Broforce - Rambro (1)_318
+  - first:
+      213: -8074265365942277191
+    second: PC Computer - Broforce - Rambro (1)_319
+  - first:
+      213: 3943526240613967517
+    second: PC Computer - Broforce - Rambro (1)_320
+  - first:
+      213: 8226063201909053408
+    second: PC Computer - Broforce - Rambro (1)_321
+  - first:
+      213: 2206226424156471621
+    second: PC Computer - Broforce - Rambro (1)_322
+  - first:
+      213: 3702200305027998470
+    second: PC Computer - Broforce - Rambro (1)_323
+  - first:
+      213: -1435989223267949707
+    second: PC Computer - Broforce - Rambro (1)_324
+  - first:
+      213: 214376063740589735
+    second: PC Computer - Broforce - Rambro (1)_325
+  - first:
+      213: -3146480022903670875
+    second: Weapon1
+  - first:
+      213: 2078764817361031507
+    second: Weapo2
+  - first:
+      213: 156897493230580027
+    second: Weapon3
+  - first:
+      213: -8042830655086800912
+    second: Weapon4
+  - first:
+      213: 1606061702585907245
+    second: PC Computer - Broforce - Rambro (1)_330
+  - first:
+      213: -947549653081918332
+    second: PC Computer - Broforce - Rambro (1)_331
+  - first:
+      213: -4186108657823947445
+    second: PC Computer - Broforce - Rambro (1)_332
+  - first:
+      213: -4657344633218675151
+    second: PC Computer - Broforce - Rambro (1)_333
+  - first:
+      213: 8772458159632913946
+    second: PC Computer - Broforce - Rambro (1)_334
+  - first:
+      213: -8565238202931327226
+    second: PC Computer - Broforce - Rambro (1)_335
+  - first:
+      213: -2745617195999800029
+    second: PC Computer - Broforce - Rambro (1)_336
+  - first:
+      213: -9199250763442889485
+    second: PC Computer - Broforce - Rambro (1)_337
+  - first:
+      213: 6339852740851552162
+    second: PC Computer - Broforce - Rambro (1)_338
+  - first:
+      213: -4141367353972774835
+    second: PC Computer - Broforce - Rambro (1)_339
+  - first:
+      213: 8618870885824236467
+    second: PC Computer - Broforce - Rambro (1)_340
+  - first:
+      213: -6060355372168101703
+    second: PC Computer - Broforce - Rambro (1)_341
+  - first:
+      213: 8708176936982926553
+    second: PC Computer - Broforce - Rambro (1)_342
+  - first:
+      213: -4934248232588659302
+    second: PC Computer - Broforce - Rambro (1)_343
+  - first:
+      213: -5224293899300406003
+    second: PC Computer - Broforce - Rambro (1)_344
+  - first:
+      213: 2268627336217302302
+    second: PC Computer - Broforce - Rambro (1)_345
+  - first:
+      213: 2351916172297600774
+    second: PC Computer - Broforce - Rambro (1)_346
+  - first:
+      213: -9197968235193289474
+    second: PC Computer - Broforce - Rambro (1)_347
+  - first:
+      213: -4569504918468903217
+    second: PC Computer - Broforce - Rambro (1)_348
+  - first:
+      213: 6343671543026438231
+    second: PC Computer - Broforce - Rambro (1)_349
+  - first:
+      213: 5280021422462229316
+    second: PC Computer - Broforce - Rambro (1)_350
+  - first:
+      213: 4490107935729208415
+    second: PC Computer - Broforce - Rambro (1)_351
+  - first:
+      213: 6874178211240487662
+    second: PC Computer - Broforce - Rambro (1)_352
+  - first:
+      213: 6510361096567874806
+    second: PC Computer - Broforce - Rambro (1)_353
+  - first:
+      213: -8557334513102867870
+    second: PC Computer - Broforce - Rambro (1)_354
+  - first:
+      213: -1954997239220459167
+    second: PC Computer - Broforce - Rambro (1)_355
+  - first:
+      213: 8067254158052847459
+    second: PC Computer - Broforce - Rambro (1)_356
+  - first:
+      213: -492746670648874082
+    second: PC Computer - Broforce - Rambro (1)_357
+  - first:
+      213: -5624567092602785310
+    second: PC Computer - Broforce - Rambro (1)_358
+  - first:
+      213: 3848900405757886067
+    second: PC Computer - Broforce - Rambro (1)_359
+  - first:
+      213: 3546751828001751591
+    second: PC Computer - Broforce - Rambro (1)_360
+  - first:
+      213: 516539997095923113
+    second: PC Computer - Broforce - Rambro (1)_361
+  - first:
+      213: -6894108181799450177
+    second: PC Computer - Broforce - Rambro (1)_362
+  - first:
+      213: -4820274442831323653
+    second: PC Computer - Broforce - Rambro (1)_363
+  - first:
+      213: -4066696074712540349
+    second: PC Computer - Broforce - Rambro (1)_364
+  - first:
+      213: -5470712703610581272
+    second: PC Computer - Broforce - Rambro (1)_365
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0cf96717ad3f460800000000000000
+      internalID: 7274398003989823734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: climbLeft1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 497
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699fe326b6f6983c0800000000000000
+      internalID: -4356828657503766122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: climbLeft2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 498
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa67f225532aed0800000000000000
+      internalID: -2404300623962525898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 497
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43527c74861abf5a0800000000000000
+      internalID: -6486413369044163276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: climbRight1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 497
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed557a65d19bf00800000000000000
+      internalID: 1132969039272205860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: climbRight2
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 498
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f7e8b5e4e36bd0800000000000000
+      internalID: -2638013281408126951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 497
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b72a5c5e728a7780800000000000000
+      internalID: -8684485452203677775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 497
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87b1b545e768ff0800000000000000
+      internalID: -34201046387820373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 497
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2f91622f073a60800000000000000
+      internalID: 7653602732080573246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 497
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b2a61f15f3036c0800000000000000
+      internalID: -4165760034142540980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 497
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fceaa7414e2b3990800000000000000
+      internalID: -7405274304370512652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5bbccbeeb9239f0800000000000000
+      internalID: -490157959757974088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_17
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8368af99774e80800000000000000
+      internalID: -8194447270345470429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 497
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d7529d961c42b0800000000000000
+      internalID: -5599075370707462100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_19
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 497
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b353fb23eb407e0800000000000000
+      internalID: -1800104825875776752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_20
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 497
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4902f58aa02ef40800000000000000
+      internalID: 5756174991999669433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_21
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 497
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ac2d2cbb114430800000000000000
+      internalID: 3765321258484146431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 497
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9268fdebf1592b0800000000000000
+      internalID: -5578517658774132289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 497
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc838ead0361cf8c0800000000000000
+      internalID: -3964269172905985843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 497
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f1187e8bd93f830800000000000000
+      internalID: 4103797102948196145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adcd8701c2b72f70800000000000000
+      internalID: 9162488509033729445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf846eab192c180800000000000000
+      internalID: -9096548065421493118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_27
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416b22a283cd5b60800000000000000
+      internalID: 7736554700726296896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_28
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfe9f13c4ee31fe0800000000000000
+      internalID: -1219369063063883852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4634c9488358c80800000000000000
+      internalID: -8321182594288622337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f63e0b8aa44af0800000000000000
+      internalID: -413017751595584026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb16fecd551d0a40800000000000000
+      internalID: 5335944626152283116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 466
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83acbad11d3b1b80800000000000000
+      internalID: -8423071531172846708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af70f256c901d840800000000000000
+      internalID: 5246985788263006114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a53fe90cf9f1de0800000000000000
+      internalID: -1360192912793314664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d719ce5c980bd0800000000000000
+      internalID: -2663707248675007933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f69194318c6e7c0800000000000000
+      internalID: -4042323630362103974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2e6d312a17dd670800000000000000
+      internalID: 8565127007260041975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac9aa693bd1e760800000000000000
+      internalID: 7485505095315606187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eddf6d4d537a4000800000000000000
+      internalID: 20955992844918243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 433
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d58049c80fad40800000000000000
+      internalID: 5597702522308777608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 433
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70eb35bd441f6f0800000000000000
+      internalID: -652664762198521887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 433
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0845657b33f86200800000000000000
+      internalID: 173656022351955982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb379113e9261a70800000000000000
+      internalID: 8797264977344281550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_66
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61033135981e8cd60800000000000000
+      internalID: 7910820725396811798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_67
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 433
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d159ed48b7ed50ec0800000000000000
+      internalID: -3601227704921320163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 433
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b3fa349ae09ec0800000000000000
+      internalID: -3562089382884953950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 433
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573344e77cdc55b0800000000000000
+      internalID: -5378181447498385576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_70
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 433
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbcf211212347ab0800000000000000
+      internalID: -5011325432177374262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_71
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 435
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677f1f4f715653c0800000000000000
+      internalID: -4371216781086328987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 435
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321280a4e2e53150800000000000000
+      internalID: 5851832762411127352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 401
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61fc1871f0f50990800000000000000
+      internalID: -7420259891130076818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 401
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cac104384c70a40800000000000000
+      internalID: 5334448351639022716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_93
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 401
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc2453628c497620800000000000000
+      internalID: 2772331168519171286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_94
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 402
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a730cfda1b9b10800000000000000
+      internalID: 1989213208719107884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_95
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 401
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4a7ade2ce42e50800000000000000
+      internalID: 6783806624704908402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_96
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 401
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7d19819a80eef0800000000000000
+      internalID: -80912435617366236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 401
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0964d2db87c5d8e0800000000000000
+      internalID: -1669208683519383282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 401
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcd159dd06f1750800000000000000
+      internalID: 6277842910383557494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_133
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 337
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1db603d87a39f0800000000000000
+      internalID: -487944761869788033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_134
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 340
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe8a9b4707f6280800000000000000
+      internalID: -9047889479730663470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 341
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed93de8eac86fc0800000000000000
+      internalID: -3501325608519344491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_136
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 339
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c975cf8ce188e30800000000000000
+      internalID: 4505885275760073749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_137
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 337
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5bef2338d10c20800000000000000
+      internalID: 3171053327004424816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_138
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 340
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1333c7feb63bf60800000000000000
+      internalID: 8048895635366293922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_139
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 341
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeddff2fac4e26a00800000000000000
+      internalID: 748412048408305130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 341
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533711808cda01f0800000000000000
+      internalID: -1077806716322106533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_141
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 338
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de5e593bbbc8e90800000000000000
+      internalID: -7022031338989032090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_142
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 338
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349cfe445e28b5ef0800000000000000
+      internalID: -118357043979499197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_143
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 338
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990590ee4e808290800000000000000
+      internalID: -7890150077726652015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_144
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 337
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209fcfe5e62713710800000000000000
+      internalID: 1671242755096770818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_145
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 337
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b56ca8a47acd80800000000000000
+      internalID: -8229637101270486135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_146
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 337
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cf79c99e4cec00800000000000000
+      internalID: 931205645376405762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_155
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 306
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4471f26ef609f40800000000000000
+      internalID: 5733205360065856693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_156
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 306
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f090735eaba3e820800000000000000
+      internalID: 2946387346442981619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_157
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 306
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64241bd7fa6c03890800000000000000
+      internalID: -7480260524032048570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_158
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525c6dff02ab53110800000000000000
+      internalID: 1240101923304424741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_159
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 313
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f757d4af442d1410800000000000000
+      internalID: 1449354579569760243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_160
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 313
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998aa335ac4e632c0800000000000000
+      internalID: -4452119623978276711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_161
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 308
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7731c0db8f86e2270800000000000000
+      internalID: 8227628986785338231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_162
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 309
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9699d13db7168af0800000000000000
+      internalID: -394601815995738468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_163
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 310
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f2b9eacd5cef50800000000000000
+      internalID: 6912002654192465711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_164
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 311
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399fb54b7a7284330800000000000000
+      internalID: 3695247095496440211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_165
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 307
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44020384f06711c0800000000000000
+      internalID: -4533047896638880693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_171
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 311
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf78bf118b1611c0800000000000000
+      internalID: -4533405733504909349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b6f507157554d0800000000000000
+      internalID: -3146480022903670875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapo2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351526e669149dc10800000000000000
+      internalID: 2078764817361031507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31782650796d2200800000000000000
+      internalID: 156897493230580027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcde6c120226090800000000000000
+      internalID: -8042830655086800912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_330
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28fdf5fb90e94610800000000000000
+      internalID: 1606061702585907245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_331
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 50
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f1016c90a9d2f0800000000000000
+      internalID: -947549653081918332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_332
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 50
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45673bca54f7e5c0800000000000000
+      internalID: -4186108657823947445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_333
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 50
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ecd645bb9cd5fb0800000000000000
+      internalID: -4657344633218675151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 465
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c243f42fccff30800000000000000
+      internalID: 4610787876127557952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8f67b7547fe5b20800000000000000
+      internalID: 3125207069237901479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 465
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49ce60777235960800000000000000
+      internalID: 7589453189220177078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c5ded862ce5650800000000000000
+      internalID: 6223625490743543190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0997a9f278ff920800000000000000
+      internalID: 3026286113141133481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be490379142702290800000000000000
+      internalID: -7917202518882347797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 497
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef962e53e13f37050800000000000000
+      internalID: 5797244456434559486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 237
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61b96b230538e10800000000000000
+      internalID: 2198689221829138160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 237
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903966842b7ad7290800000000000000
+      internalID: -7890966587922541815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 237
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef282bf99c4ced0800000000000000
+      internalID: -2394567414122349049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Rambro (1)_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 235
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0a5515c0624f460800000000000000
+      internalID: 7274481132456222938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 235
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482e4b494c0b4620800000000000000
+      internalID: 2759312705630120012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 237
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce26b853ea6fd10800000000000000
+      internalID: 2159104616365747352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2895 @@
+fileFormatVersion: 2
+guid: f463302793a9bc6428b72a8f675d916e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1687278617946443546
+    second: BrodellIdle
+  - first:
+      213: 7120781960838423034
+    second: BrodellJump1
+  - first:
+      213: -1315854539926890478
+    second: BrodellJump2
+  - first:
+      213: 8463349120776046481
+    second: BrodellJump3
+  - first:
+      213: 7152818222915223322
+    second: Brodell Throw1
+  - first:
+      213: -8319918426722314441
+    second: BrodellLeft1
+  - first:
+      213: 3145248884171832343
+    second: BrodellLeft2
+  - first:
+      213: 7597292564587767782
+    second: PC Computer - Broforce - Brodell Walker_7
+  - first:
+      213: 6752954672099244859
+    second: BrodellRight1
+  - first:
+      213: -4870497912769040813
+    second: BrodellRight2
+  - first:
+      213: 1617362202996472622
+    second: PC Computer - Broforce - Brodell Walker_10
+  - first:
+      213: 5860447719431411304
+    second: BrodellThrow1
+  - first:
+      213: -2600171685462250730
+    second: BrodellThrow2
+  - first:
+      213: -6099747343222133656
+    second: BrodellThrow3
+  - first:
+      213: -4464871657770394721
+    second: BrodellThrow4
+  - first:
+      213: -6458897640303281663
+    second: Brodell Throw2
+  - first:
+      213: 9075214372683512638
+    second: Brodell Throw3
+  - first:
+      213: -6194006440914370225
+    second: Brodell Throw4
+  - first:
+      213: -8952474620208500348
+    second: Brodell Throw5
+  - first:
+      213: 4936104086363014250
+    second: Brodell Throw6
+  - first:
+      213: -2527820806365075105
+    second: Brodell Throw7
+  - first:
+      213: 984862435053215683
+    second: Brodell Throw8
+  - first:
+      213: 3910185432466074285
+    second: PC Computer - Broforce - Brodell Walker_22
+  - first:
+      213: -3607454933484686267
+    second: PC Computer - Broforce - Brodell Walker_23
+  - first:
+      213: 4344385274126479005
+    second: PC Computer - Broforce - Brodell Walker_24
+  - first:
+      213: -7201328375394644407
+    second: PC Computer - Broforce - Brodell Walker_25
+  - first:
+      213: 340012119757192572
+    second: PC Computer - Broforce - Brodell Walker_26
+  - first:
+      213: 3492346265158166403
+    second: PC Computer - Broforce - Brodell Walker_27
+  - first:
+      213: -7596886886016189901
+    second: PC Computer - Broforce - Brodell Walker_28
+  - first:
+      213: -2719349572203200255
+    second: PC Computer - Broforce - Brodell Walker_29
+  - first:
+      213: 4241210875598525081
+    second: BrodellWalk1
+  - first:
+      213: 6654060107968746156
+    second: BrodellWalk2
+  - first:
+      213: 4270124196214931636
+    second: BrodellWalk3
+  - first:
+      213: 8264937091499742627
+    second: BrodellWalk4
+  - first:
+      213: -3723444477998742861
+    second: BrodellWalk5
+  - first:
+      213: 3127141332062371571
+    second: BrodellWalk6
+  - first:
+      213: -1751292436799303381
+    second: BrodellWalk7
+  - first:
+      213: 3586242679985120187
+    second: BrodellWalk8
+  - first:
+      213: -1557944853558825386
+    second: PC Computer - Broforce - Brodell Walker_38
+  - first:
+      213: -7367006595915050377
+    second: PC Computer - Broforce - Brodell Walker_39
+  - first:
+      213: 1436275818122597323
+    second: PC Computer - Broforce - Brodell Walker_40
+  - first:
+      213: 8287067783209781808
+    second: PC Computer - Broforce - Brodell Walker_41
+  - first:
+      213: 6428477398226063862
+    second: PC Computer - Broforce - Brodell Walker_42
+  - first:
+      213: -7430212887601466439
+    second: PC Computer - Broforce - Brodell Walker_43
+  - first:
+      213: 5914938779935827052
+    second: PC Computer - Broforce - Brodell Walker_44
+  - first:
+      213: 5850173356120381316
+    second: PC Computer - Broforce - Brodell Walker_45
+  - first:
+      213: -7503408733921774231
+    second: PC Computer - Broforce - Brodell Walker_46
+  - first:
+      213: -8698573990718066645
+    second: PC Computer - Broforce - Brodell Walker_47
+  - first:
+      213: 3839268058409548677
+    second: PC Computer - Broforce - Brodell Walker_48
+  - first:
+      213: -804710430187848845
+    second: PC Computer - Broforce - Brodell Walker_49
+  - first:
+      213: 2257678815981689531
+    second: PC Computer - Broforce - Brodell Walker_50
+  - first:
+      213: -96089592316872962
+    second: PC Computer - Broforce - Brodell Walker_51
+  - first:
+      213: -5032562019475562058
+    second: PC Computer - Broforce - Brodell Walker_52
+  - first:
+      213: 7200613273578245857
+    second: PC Computer - Broforce - Brodell Walker_53
+  - first:
+      213: -7537464427624948164
+    second: PC Computer - Broforce - Brodell Walker_54
+  - first:
+      213: -28650830485048971
+    second: PC Computer - Broforce - Brodell Walker_55
+  - first:
+      213: 236586183774358222
+    second: PC Computer - Broforce - Brodell Walker_56
+  - first:
+      213: -8079494511491723601
+    second: PC Computer - Broforce - Brodell Walker_57
+  - first:
+      213: 5761108208831274048
+    second: PC Computer - Broforce - Brodell Walker_58
+  - first:
+      213: -7103744971934863382
+    second: PC Computer - Broforce - Brodell Walker_59
+  - first:
+      213: -4508023369404074216
+    second: PC Computer - Broforce - Brodell Walker_60
+  - first:
+      213: -9123803568368582540
+    second: PC Computer - Broforce - Brodell Walker_61
+  - first:
+      213: 6618908313258044866
+    second: PC Computer - Broforce - Brodell Walker_62
+  - first:
+      213: 4965971591335416784
+    second: PC Computer - Broforce - Brodell Walker_63
+  - first:
+      213: -6209851304146536172
+    second: PC Computer - Broforce - Brodell Walker_64
+  - first:
+      213: 3477492266560625807
+    second: PC Computer - Broforce - Brodell Walker_65
+  - first:
+      213: 1384600684166672231
+    second: PC Computer - Broforce - Brodell Walker_66
+  - first:
+      213: -7460836682476506133
+    second: PC Computer - Broforce - Brodell Walker_67
+  - first:
+      213: -3285552776364381735
+    second: PC Computer - Broforce - Brodell Walker_68
+  - first:
+      213: -7721753924013562474
+    second: PC Computer - Broforce - Brodell Walker_69
+  - first:
+      213: 5809502206131966794
+    second: PC Computer - Broforce - Brodell Walker_70
+  - first:
+      213: -4031911484248729130
+    second: PC Computer - Broforce - Brodell Walker_71
+  - first:
+      213: 8697680827578497510
+    second: PC Computer - Broforce - Brodell Walker_72
+  - first:
+      213: -1853778906835869876
+    second: PC Computer - Broforce - Brodell Walker_73
+  - first:
+      213: 4328820149039952897
+    second: PC Computer - Broforce - Brodell Walker_74
+  - first:
+      213: 8076213320645027665
+    second: PC Computer - Broforce - Brodell Walker_75
+  - first:
+      213: 5291852996878478919
+    second: PC Computer - Broforce - Brodell Walker_76
+  - first:
+      213: -6345718173221419125
+    second: PC Computer - Broforce - Brodell Walker_77
+  - first:
+      213: -1783703417768940000
+    second: PC Computer - Broforce - Brodell Walker_78
+  - first:
+      213: 2263333561867601727
+    second: PC Computer - Broforce - Brodell Walker_79
+  - first:
+      213: -3430973758476950332
+    second: PC Computer - Broforce - Brodell Walker_80
+  - first:
+      213: -7896050764720939969
+    second: PC Computer - Broforce - Brodell Walker_81
+  - first:
+      213: 8664617760107148864
+    second: PC Computer - Broforce - Brodell Walker_82
+  - first:
+      213: -107600140856636399
+    second: PC Computer - Broforce - Brodell Walker_83
+  - first:
+      213: 6543583519705338619
+    second: PC Computer - Broforce - Brodell Walker_84
+  - first:
+      213: 5033683956848254358
+    second: PC Computer - Broforce - Brodell Walker_85
+  - first:
+      213: 4102767203965074190
+    second: PC Computer - Broforce - Brodell Walker_86
+  - first:
+      213: 9129584454019327941
+    second: PC Computer - Broforce - Brodell Walker_87
+  - first:
+      213: -4220225804238866873
+    second: PC Computer - Broforce - Brodell Walker_88
+  - first:
+      213: -3691368634827232792
+    second: PC Computer - Broforce - Brodell Walker_89
+  - first:
+      213: -6098173548084935289
+    second: PC Computer - Broforce - Brodell Walker_90
+  - first:
+      213: 9177428882122805534
+    second: PC Computer - Broforce - Brodell Walker_91
+  - first:
+      213: -858809522752065099
+    second: PC Computer - Broforce - Brodell Walker_92
+  - first:
+      213: -6873587127999833336
+    second: PC Computer - Broforce - Brodell Walker_93
+  - first:
+      213: 3706227905672817498
+    second: PC Computer - Broforce - Brodell Walker_94
+  - first:
+      213: 2142307092316522719
+    second: PC Computer - Broforce - Brodell Walker_95
+  - first:
+      213: 1014330756005701271
+    second: PC Computer - Broforce - Brodell Walker_96
+  - first:
+      213: -2745091149901745361
+    second: PC Computer - Broforce - Brodell Walker_97
+  - first:
+      213: -3839842560454791992
+    second: PC Computer - Broforce - Brodell Walker_98
+  - first:
+      213: -9100214351582847524
+    second: PC Computer - Broforce - Brodell Walker_99
+  - first:
+      213: -209859512033371836
+    second: PC Computer - Broforce - Brodell Walker_100
+  - first:
+      213: -2789007762708419246
+    second: PC Computer - Broforce - Brodell Walker_101
+  - first:
+      213: -5777599382208778940
+    second: PC Computer - Broforce - Brodell Walker_102
+  - first:
+      213: 6232287437580380659
+    second: PC Computer - Broforce - Brodell Walker_103
+  - first:
+      213: -6302769654307909302
+    second: PC Computer - Broforce - Brodell Walker_104
+  - first:
+      213: 2002107282474172722
+    second: PC Computer - Broforce - Brodell Walker_105
+  - first:
+      213: -8044253391514469115
+    second: PC Computer - Broforce - Brodell Walker_106
+  - first:
+      213: 7149017877823571037
+    second: PC Computer - Broforce - Brodell Walker_107
+  - first:
+      213: -5827821753596854405
+    second: PC Computer - Broforce - Brodell Walker_108
+  - first:
+      213: 8367122867642668498
+    second: PC Computer - Broforce - Brodell Walker_109
+  - first:
+      213: 3023099587520327227
+    second: PC Computer - Broforce - Brodell Walker_110
+  - first:
+      213: 3274730712814970868
+    second: PC Computer - Broforce - Brodell Walker_111
+  - first:
+      213: -4267681546865909796
+    second: PC Computer - Broforce - Brodell Walker_112
+  - first:
+      213: -1406226622728508862
+    second: PC Computer - Broforce - Brodell Walker_113
+  - first:
+      213: -5612182797207811245
+    second: PC Computer - Broforce - Brodell Walker_114
+  - first:
+      213: 1187258779955020274
+    second: PC Computer - Broforce - Brodell Walker_115
+  - first:
+      213: -8672375705178504629
+    second: PC Computer - Broforce - Brodell Walker_116
+  - first:
+      213: 5449481221519448353
+    second: PC Computer - Broforce - Brodell Walker_117
+  - first:
+      213: -5705799304449885339
+    second: PC Computer - Broforce - Brodell Walker_118
+  - first:
+      213: 6072072851985771059
+    second: PC Computer - Broforce - Brodell Walker_119
+  - first:
+      213: -7383005407786975508
+    second: PC Computer - Broforce - Brodell Walker_120
+  - first:
+      213: 6362512909548346316
+    second: PC Computer - Broforce - Brodell Walker_121
+  - first:
+      213: 6803513945713074662
+    second: PC Computer - Broforce - Brodell Walker_122
+  - first:
+      213: 7220397052585948508
+    second: PC Computer - Broforce - Brodell Walker_123
+  - first:
+      213: -2874722799397108168
+    second: PC Computer - Broforce - Brodell Walker_124
+  - first:
+      213: 4119374973795092610
+    second: PC Computer - Broforce - Brodell Walker_125
+  - first:
+      213: 1490183616298292547
+    second: PC Computer - Broforce - Brodell Walker_126
+  - first:
+      213: 9099214661959369273
+    second: PC Computer - Broforce - Brodell Walker_127
+  - first:
+      213: -508885391058141696
+    second: PC Computer - Broforce - Brodell Walker_128
+  - first:
+      213: -7436547440970400724
+    second: PC Computer - Broforce - Brodell Walker_129
+  - first:
+      213: -8242139661333664386
+    second: PC Computer - Broforce - Brodell Walker_130
+  - first:
+      213: -4907860071090949506
+    second: PC Computer - Broforce - Brodell Walker_131
+  - first:
+      213: 8101476383250561506
+    second: PC Computer - Broforce - Brodell Walker_132
+  - first:
+      213: 754685737707053547
+    second: PC Computer - Broforce - Brodell Walker_133
+  - first:
+      213: 2771951193040885244
+    second: PC Computer - Broforce - Brodell Walker_134
+  - first:
+      213: 3957784453004579306
+    second: PC Computer - Broforce - Brodell Walker_135
+  - first:
+      213: 7285364230363940264
+    second: PC Computer - Broforce - Brodell Walker_136
+  - first:
+      213: -3027467654828888445
+    second: PC Computer - Broforce - Brodell Walker_137
+  - first:
+      213: 9203236499960949037
+    second: PC Computer - Broforce - Brodell Walker_138
+  - first:
+      213: 3360927521224776436
+    second: PC Computer - Broforce - Brodell Walker_139
+  - first:
+      213: -3828914209182628916
+    second: PC Computer - Broforce - Brodell Walker_140
+  - first:
+      213: 7844998069218582891
+    second: PC Computer - Broforce - Brodell Walker_141
+  - first:
+      213: -2988061106450142833
+    second: PC Computer - Broforce - Brodell Walker_142
+  - first:
+      213: 4011607701846662623
+    second: PC Computer - Broforce - Brodell Walker_143
+  - first:
+      213: -115920093111233542
+    second: PC Computer - Broforce - Brodell Walker_144
+  - first:
+      213: 5073989789741708998
+    second: PC Computer - Broforce - Brodell Walker_145
+  - first:
+      213: 1971257921042622141
+    second: PC Computer - Broforce - Brodell Walker_146
+  - first:
+      213: -6969136837570543062
+    second: PC Computer - Broforce - Brodell Walker_147
+  - first:
+      213: -4579523055726478169
+    second: PC Computer - Broforce - Brodell Walker_148
+  - first:
+      213: -9104766621291890159
+    second: PC Computer - Broforce - Brodell Walker_149
+  - first:
+      213: 4142549170721909423
+    second: PC Computer - Broforce - Brodell Walker_150
+  - first:
+      213: 930081966152016001
+    second: PC Computer - Broforce - Brodell Walker_151
+  - first:
+      213: -2548107816187693400
+    second: PC Computer - Broforce - Brodell Walker_152
+  - first:
+      213: -6309022123739695739
+    second: PC Computer - Broforce - Brodell Walker_153
+  - first:
+      213: 312843711341142891
+    second: PC Computer - Broforce - Brodell Walker_154
+  - first:
+      213: 6012859401726309031
+    second: PC Computer - Broforce - Brodell Walker_155
+  - first:
+      213: -3240426510253132895
+    second: PC Computer - Broforce - Brodell Walker_156
+  - first:
+      213: 4583668311527122610
+    second: PC Computer - Broforce - Brodell Walker_157
+  - first:
+      213: 4358266729090189574
+    second: PC Computer - Broforce - Brodell Walker_158
+  - first:
+      213: 2900811471034543484
+    second: PC Computer - Broforce - Brodell Walker_159
+  - first:
+      213: 8922211993197111638
+    second: PC Computer - Broforce - Brodell Walker_160
+  - first:
+      213: -4028906880460020793
+    second: PC Computer - Broforce - Brodell Walker_161
+  - first:
+      213: -4103357181450148054
+    second: PC Computer - Broforce - Brodell Walker_162
+  - first:
+      213: -3079740454061934405
+    second: PC Computer - Broforce - Brodell Walker_163
+  - first:
+      213: -1602725280993427111
+    second: PC Computer - Broforce - Brodell Walker_164
+  - first:
+      213: 7467859610228159647
+    second: PC Computer - Broforce - Brodell Walker_165
+  - first:
+      213: -5418045688199720150
+    second: PC Computer - Broforce - Brodell Walker_166
+  - first:
+      213: 1404563721802238636
+    second: PC Computer - Broforce - Brodell Walker_167
+  - first:
+      213: -1956703662771362748
+    second: PC Computer - Broforce - Brodell Walker_168
+  - first:
+      213: 7942088331343607481
+    second: PC Computer - Broforce - Brodell Walker_169
+  - first:
+      213: 6875504650047982
+    second: PC Computer - Broforce - Brodell Walker_170
+  - first:
+      213: 2249895981505127126
+    second: PC Computer - Broforce - Brodell Walker_171
+  - first:
+      213: -3873472962607036640
+    second: PC Computer - Broforce - Brodell Walker_172
+  - first:
+      213: 4745685324211515876
+    second: PC Computer - Broforce - Brodell Walker_173
+  - first:
+      213: 3692435610058137210
+    second: PC Computer - Broforce - Brodell Walker_174
+  - first:
+      213: -8200344870870094083
+    second: PC Computer - Broforce - Brodell Walker_175
+  - first:
+      213: -3310338868558012625
+    second: PC Computer - Broforce - Brodell Walker_176
+  - first:
+      213: 52915513052425417
+    second: PC Computer - Broforce - Brodell Walker_177
+  - first:
+      213: -7885250241281648207
+    second: PC Computer - Broforce - Brodell Walker_178
+  - first:
+      213: 5979317976021043618
+    second: PC Computer - Broforce - Brodell Walker_179
+  - first:
+      213: -774018833277929638
+    second: PC Computer - Broforce - Brodell Walker_180
+  - first:
+      213: -8420780930062505652
+    second: PC Computer - Broforce - Brodell Walker_181
+  - first:
+      213: 5064440492123830734
+    second: PC Computer - Broforce - Brodell Walker_182
+  - first:
+      213: 3895837657741983290
+    second: PC Computer - Broforce - Brodell Walker_183
+  - first:
+      213: -6428607281393870282
+    second: PC Computer - Broforce - Brodell Walker_184
+  - first:
+      213: 6071955801895008313
+    second: PC Computer - Broforce - Brodell Walker_185
+  - first:
+      213: 1528045447544227828
+    second: PC Computer - Broforce - Brodell Walker_186
+  - first:
+      213: 3232433839047847116
+    second: PC Computer - Broforce - Brodell Walker_187
+  - first:
+      213: -7644819538569075973
+    second: PC Computer - Broforce - Brodell Walker_188
+  - first:
+      213: 6558429287091027015
+    second: PC Computer - Broforce - Brodell Walker_189
+  - first:
+      213: 9182317816686038442
+    second: PC Computer - Broforce - Brodell Walker_190
+  - first:
+      213: -6511527438356630890
+    second: PC Computer - Broforce - Brodell Walker_191
+  - first:
+      213: 6610477887981743742
+    second: PC Computer - Broforce - Brodell Walker_192
+  - first:
+      213: -6362581318396858807
+    second: PC Computer - Broforce - Brodell Walker_193
+  - first:
+      213: 3495896662080853003
+    second: PC Computer - Broforce - Brodell Walker_194
+  - first:
+      213: -3042885482910651252
+    second: PC Computer - Broforce - Brodell Walker_195
+  - first:
+      213: -1585431271083859540
+    second: PC Computer - Broforce - Brodell Walker_196
+  - first:
+      213: -6537144528203837859
+    second: PC Computer - Broforce - Brodell Walker_197
+  - first:
+      213: 582061290749002142
+    second: PC Computer - Broforce - Brodell Walker_198
+  - first:
+      213: -7056486705042798429
+    second: PC Computer - Broforce - Brodell Walker_199
+  - first:
+      213: 6051560305708925565
+    second: PC Computer - Broforce - Brodell Walker_200
+  - first:
+      213: 782723399513975782
+    second: PC Computer - Broforce - Brodell Walker_201
+  - first:
+      213: -2258485372318562848
+    second: PC Computer - Broforce - Brodell Walker_202
+  - first:
+      213: -5014711863125759281
+    second: PC Computer - Broforce - Brodell Walker_203
+  - first:
+      213: -3363742776940911439
+    second: PC Computer - Broforce - Brodell Walker_204
+  - first:
+      213: -5395234817626027345
+    second: PC Computer - Broforce - Brodell Walker_205
+  - first:
+      213: 2397708822459391847
+    second: PC Computer - Broforce - Brodell Walker_206
+  - first:
+      213: -8493627940227155480
+    second: PC Computer - Broforce - Brodell Walker_207
+  - first:
+      213: 6604077862914951022
+    second: PC Computer - Broforce - Brodell Walker_208
+  - first:
+      213: -8335387105569761055
+    second: PC Computer - Broforce - Brodell Walker_209
+  - first:
+      213: 8065307034320706886
+    second: PC Computer - Broforce - Brodell Walker_210
+  - first:
+      213: -4802649312300464305
+    second: PC Computer - Broforce - Brodell Walker_211
+  - first:
+      213: -7978596099559125600
+    second: PC Computer - Broforce - Brodell Walker_212
+  - first:
+      213: -6291358748293518057
+    second: PC Computer - Broforce - Brodell Walker_213
+  - first:
+      213: -6515376503872327237
+    second: PC Computer - Broforce - Brodell Walker_214
+  - first:
+      213: -3433601048045118130
+    second: PC Computer - Broforce - Brodell Walker_215
+  - first:
+      213: -8649190311906708437
+    second: PC Computer - Broforce - Brodell Walker_216
+  - first:
+      213: 2183922183192443494
+    second: PC Computer - Broforce - Brodell Walker_217
+  - first:
+      213: -8270774451732471312
+    second: PC Computer - Broforce - Brodell Walker_218
+  - first:
+      213: 3451892669448884352
+    second: PC Computer - Broforce - Brodell Walker_219
+  - first:
+      213: 2932979570835405823
+    second: BrodellWeapon1
+  - first:
+      213: -6214488728330855153
+    second: BrodellWeapon2
+  - first:
+      213: 391324018643212072
+    second: BrodellWeapon3
+  - first:
+      213: -1692982107594688289
+    second: BrodellWeapon4
+  - first:
+      213: -4713677058792498344
+    second: BrodellLeftWeapon
+  - first:
+      213: 2537420220116561241
+    second: PC Computer - Broforce - Brodell Walker_225
+  - first:
+      213: 608985274658154126
+    second: PC Computer - Broforce - Brodell Walker_226
+  - first:
+      213: 5713759575798711989
+    second: PC Computer - Broforce - Brodell Walker_227
+  - first:
+      213: -851390613464203549
+    second: PC Computer - Broforce - Brodell Walker_228
+  - first:
+      213: 8507233125877986321
+    second: PC Computer - Broforce - Brodell Walker_229
+  - first:
+      213: 5534137014630503404
+    second: PC Computer - Broforce - Brodell Walker_230
+  - first:
+      213: -6869191048495498593
+    second: PC Computer - Broforce - Brodell Walker_231
+  - first:
+      213: -8214877861054460566
+    second: PC Computer - Broforce - Brodell Walker_232
+  - first:
+      213: 1231768620621676955
+    second: PC Computer - Broforce - Brodell Walker_233
+  - first:
+      213: -3994446205402051155
+    second: PC Computer - Broforce - Brodell Walker_234
+  - first:
+      213: 1030196249348813967
+    second: PC Computer - Broforce - Brodell Walker_235
+  - first:
+      213: 3810972195835086838
+    second: PC Computer - Broforce - Brodell Walker_236
+  - first:
+      213: 7459135736369652457
+    second: PC Computer - Broforce - Brodell Walker_237
+  - first:
+      213: 6017596549496278787
+    second: PC Computer - Broforce - Brodell Walker_238
+  - first:
+      213: -1500106934731101375
+    second: PC Computer - Broforce - Brodell Walker_239
+  - first:
+      213: -8303246994122578900
+    second: PC Computer - Broforce - Brodell Walker_240
+  - first:
+      213: 7380078811333076789
+    second: PC Computer - Broforce - Brodell Walker_241
+  - first:
+      213: -611001660677825396
+    second: PC Computer - Broforce - Brodell Walker_242
+  - first:
+      213: 6372965706690268116
+    second: PC Computer - Broforce - Brodell Walker_243
+  - first:
+      213: -3537590552124241131
+    second: PC Computer - Broforce - Brodell Walker_244
+  - first:
+      213: 6462712552625794540
+    second: PC Computer - Broforce - Brodell Walker_245
+  - first:
+      213: -5830251054423838566
+    second: PC Computer - Broforce - Brodell Walker_246
+  - first:
+      213: 1494036263070216150
+    second: PC Computer - Broforce - Brodell Walker_247
+  - first:
+      213: 4490672090429484820
+    second: PC Computer - Broforce - Brodell Walker_248
+  - first:
+      213: -1871937507542583648
+    second: PC Computer - Broforce - Brodell Walker_249
+  - first:
+      213: 1416699560359940476
+    second: PC Computer - Broforce - Brodell Walker_250
+  - first:
+      213: 4506453350817605280
+    second: PC Computer - Broforce - Brodell Walker_251
+  - first:
+      213: -3115004458782646434
+    second: PC Computer - Broforce - Brodell Walker_252
+  - first:
+      213: 4997588496855976945
+    second: PC Computer - Broforce - Brodell Walker_253
+  - first:
+      213: 3447736445543343554
+    second: PC Computer - Broforce - Brodell Walker_254
+  - first:
+      213: 1565796583179371464
+    second: PC Computer - Broforce - Brodell Walker_255
+  - first:
+      213: -7393462813784696092
+    second: PC Computer - Broforce - Brodell Walker_256
+  - first:
+      213: -3607336302151663070
+    second: PC Computer - Broforce - Brodell Walker_257
+  - first:
+      213: -1516804193787040950
+    second: PC Computer - Broforce - Brodell Walker_258
+  - first:
+      213: 4645098484271744853
+    second: PC Computer - Broforce - Brodell Walker_259
+  - first:
+      213: 212439064740091591
+    second: PC Computer - Broforce - Brodell Walker_260
+  - first:
+      213: 6135484980970448300
+    second: PC Computer - Broforce - Brodell Walker_261
+  - first:
+      213: -6455845346551891125
+    second: PC Computer - Broforce - Brodell Walker_262
+  - first:
+      213: 8221572813264545817
+    second: PC Computer - Broforce - Brodell Walker_263
+  - first:
+      213: -2164711541704189162
+    second: PC Computer - Broforce - Brodell Walker_264
+  - first:
+      213: -2163358489001545002
+    second: PC Computer - Broforce - Brodell Walker_265
+  - first:
+      213: -1642284723426279187
+    second: PC Computer - Broforce - Brodell Walker_266
+  - first:
+      213: -1630047592016251072
+    second: PC Computer - Broforce - Brodell Walker_267
+  - first:
+      213: -2879204737131221998
+    second: PC Computer - Broforce - Brodell Walker_268
+  - first:
+      213: -139973237267877427
+    second: PC Computer - Broforce - Brodell Walker_269
+  - first:
+      213: -5269930827017672790
+    second: PC Computer - Broforce - Brodell Walker_270
+  - first:
+      213: 4145057863196544332
+    second: PC Computer - Broforce - Brodell Walker_271
+  - first:
+      213: -8476419359248216783
+    second: PC Computer - Broforce - Brodell Walker_272
+  - first:
+      213: 4000685632978617194
+    second: PC Computer - Broforce - Brodell Walker_273
+  - first:
+      213: -2920637930445805834
+    second: PC Computer - Broforce - Brodell Walker_274
+  - first:
+      213: -6596063630757362131
+    second: PC Computer - Broforce - Brodell Walker_275
+  - first:
+      213: 5138476878085919766
+    second: PC Computer - Broforce - Brodell Walker_276
+  - first:
+      213: 5194070525809843193
+    second: PC Computer - Broforce - Brodell Walker_277
+  - first:
+      213: 5360275934312185667
+    second: PC Computer - Broforce - Brodell Walker_278
+  - first:
+      213: 8748987297696421760
+    second: PC Computer - Broforce - Brodell Walker_279
+  - first:
+      213: 1815175715237605083
+    second: PC Computer - Broforce - Brodell Walker_280
+  - first:
+      213: 7030611198949424445
+    second: PC Computer - Broforce - Brodell Walker_281
+  - first:
+      213: 4767059775606443654
+    second: PC Computer - Broforce - Brodell Walker_282
+  - first:
+      213: 2513122046971288289
+    second: PC Computer - Broforce - Brodell Walker_283
+  - first:
+      213: -8177095924018429945
+    second: PC Computer - Broforce - Brodell Walker_284
+  - first:
+      213: -3611740015110041860
+    second: PC Computer - Broforce - Brodell Walker_285
+  - first:
+      213: -8956728352320666591
+    second: PC Computer - Broforce - Brodell Walker_286
+  - first:
+      213: -7702485934153683951
+    second: PC Computer - Broforce - Brodell Walker_287
+  - first:
+      213: -2959817381851992200
+    second: PC Computer - Broforce - Brodell Walker_288
+  - first:
+      213: 6300913670374070670
+    second: PC Computer - Broforce - Brodell Walker_289
+  - first:
+      213: -1606496428540742603
+    second: PC Computer - Broforce - Brodell Walker_290
+  - first:
+      213: 5641550750892333821
+    second: PC Computer - Broforce - Brodell Walker_291
+  - first:
+      213: -4355500829406899475
+    second: PC Computer - Broforce - Brodell Walker_292
+  - first:
+      213: -1849456824780335724
+    second: PC Computer - Broforce - Brodell Walker_293
+  - first:
+      213: 3780369140539855380
+    second: PC Computer - Broforce - Brodell Walker_294
+  - first:
+      213: 1576341152643890481
+    second: PC Computer - Broforce - Brodell Walker_295
+  - first:
+      213: -8782593023950096364
+    second: PC Computer - Broforce - Brodell Walker_296
+  - first:
+      213: 856028312240102700
+    second: PC Computer - Broforce - Brodell Walker_297
+  - first:
+      213: -5614181676270571917
+    second: PC Computer - Broforce - Brodell Walker_298
+  - first:
+      213: 6106697583431040225
+    second: PC Computer - Broforce - Brodell Walker_299
+  - first:
+      213: -6148999284087200177
+    second: PC Computer - Broforce - Brodell Walker_300
+  - first:
+      213: 5124977792557443603
+    second: PC Computer - Broforce - Brodell Walker_301
+  - first:
+      213: -2121312304006474567
+    second: PC Computer - Broforce - Brodell Walker_302
+  - first:
+      213: -7613594979324419153
+    second: PC Computer - Broforce - Brodell Walker_303
+  - first:
+      213: 1064791593123024355
+    second: PC Computer - Broforce - Brodell Walker_304
+  - first:
+      213: 1154536721462484403
+    second: PC Computer - Broforce - Brodell Walker_305
+  - first:
+      213: -4165538828369045412
+    second: PC Computer - Broforce - Brodell Walker_306
+  - first:
+      213: 5026292544726027125
+    second: PC Computer - Broforce - Brodell Walker_307
+  - first:
+      213: 8388488839411671294
+    second: PC Computer - Broforce - Brodell Walker_308
+  - first:
+      213: -3493763063077483543
+    second: PC Computer - Broforce - Brodell Walker_309
+  - first:
+      213: 6124630475968259957
+    second: PC Computer - Broforce - Brodell Walker_310
+  - first:
+      213: -4183000894391592005
+    second: PC Computer - Broforce - Brodell Walker_311
+  - first:
+      213: -3194275666582965809
+    second: PC Computer - Broforce - Brodell Walker_312
+  - first:
+      213: -2261113425984305826
+    second: PC Computer - Broforce - Brodell Walker_313
+  - first:
+      213: 5069067446987293881
+    second: PC Computer - Broforce - Brodell Walker_314
+  - first:
+      213: -1307540979884039654
+    second: PC Computer - Broforce - Brodell Walker_315
+  - first:
+      213: 7656151755018173874
+    second: PC Computer - Broforce - Brodell Walker_316
+  - first:
+      213: -5419678373104539463
+    second: PC Computer - Broforce - Brodell Walker_317
+  - first:
+      213: 5938083387389346217
+    second: PC Computer - Broforce - Brodell Walker_318
+  - first:
+      213: -8407808110846740586
+    second: PC Computer - Broforce - Brodell Walker_319
+  - first:
+      213: 4686673950213953836
+    second: PC Computer - Broforce - Brodell Walker_320
+  - first:
+      213: 4208679498388869396
+    second: PC Computer - Broforce - Brodell Walker_321
+  - first:
+      213: 2092077956109134559
+    second: PC Computer - Broforce - Brodell Walker_322
+  - first:
+      213: 1227439703691283748
+    second: PC Computer - Broforce - Brodell Walker_323
+  - first:
+      213: 7509351114117639953
+    second: PC Computer - Broforce - Brodell Walker_324
+  - first:
+      213: 4495530793552970515
+    second: PC Computer - Broforce - Brodell Walker_325
+  - first:
+      213: 8785506764392444868
+    second: PC Computer - Broforce - Brodell Walker_326
+  - first:
+      213: -2893962189063053608
+    second: PC Computer - Broforce - Brodell Walker_327
+  - first:
+      213: 8149082588445044085
+    second: PC Computer - Broforce - Brodell Walker_328
+  - first:
+      213: -1111175886821211894
+    second: PC Computer - Broforce - Brodell Walker_329
+  - first:
+      213: 5995621893508507472
+    second: PC Computer - Broforce - Brodell Walker_330
+  - first:
+      213: 1305989417302971080
+    second: PC Computer - Broforce - Brodell Walker_331
+  - first:
+      213: 5956605440607220611
+    second: PC Computer - Broforce - Brodell Walker_332
+  - first:
+      213: -2829988778053582180
+    second: PC Computer - Broforce - Brodell Walker_333
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrodellIdle
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b03c59059598e0800000000000000
+      internalID: -1687278617946443546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellJump1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a8c2477912d260800000000000000
+      internalID: 7120781960838423034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellJump2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218929384452dbde0800000000000000
+      internalID: -1315854539926890478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellJump3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19788f14f2bd37570800000000000000
+      internalID: 8463349120776046481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellLeft1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 358
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375dfe8546b98c80800000000000000
+      internalID: -8319918426722314441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellLeft2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 358
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7147223b26ab20800000000000000
+      internalID: 3145248884171832343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_7
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e768f6d5510f6960800000000000000
+      internalID: 7597292564587767782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellRight1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 358
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3acede7057bd50800000000000000
+      internalID: 6752954672099244859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellRight2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 358
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eae1e04f3886cb0800000000000000
+      internalID: -4870497912769040813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7fbeba56027610800000000000000
+      internalID: 1617362202996472622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellThrow1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 358
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866157d962e745150800000000000000
+      internalID: 5860447719431411304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellThrow2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 358
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6efcd0a55aebd0800000000000000
+      internalID: -2600171685462250730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellThrow3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 358
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cac93fb18595ba0800000000000000
+      internalID: -6099747343222133656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellThrow4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 358
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bd2e612e69902c0800000000000000
+      internalID: -4464871657770394721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 359
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa2c0c0fe4c34630800000000000000
+      internalID: 3910185432466074285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 359
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443a62e9debfedc0800000000000000
+      internalID: -3607454933484686267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 326
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d29902decbda30800000000000000
+      internalID: 4241210875598525081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 326
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca21399d968f75c50800000000000000
+      internalID: 6654060107968746156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 326
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b001361557824b30800000000000000
+      internalID: 4270124196214931636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 326
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5dac5ce74f2b270800000000000000
+      internalID: 8264937091499742627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 326
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2cef399faa35cc0800000000000000
+      internalID: -3723444477998742861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 326
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef4042976d56b20800000000000000
+      internalID: 3127141332062371571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 327
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21dfb6bec822b7e0800000000000000
+      internalID: -1751292436799303381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWalk8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3abda77b4e4c130800000000000000
+      internalID: 3586242679985120187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 327
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6af7f861116ae0800000000000000
+      internalID: -1557944853558825386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_39
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 327
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721688788223c990800000000000000
+      internalID: -7367006595915050377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 327
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35ea23f3daee310800000000000000
+      internalID: 1436275818122597323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 327
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a8dc7fd34910370800000000000000
+      internalID: 8287067783209781808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 327
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f154e7522a863950800000000000000
+      internalID: 6428477398226063862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 327
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b33cf4eeb492e890800000000000000
+      internalID: -7430212887601466439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 327
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e14e4b75161250800000000000000
+      internalID: 5914938779935827052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 327
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487920efbadff2150800000000000000
+      internalID: 5850173356120381316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefead4d59d6a6d90800000000000000
+      internalID: -7103744971934863382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817b28b41a84071c0800000000000000
+      internalID: -4508023369404074216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47003fa9efcb16180800000000000000
+      internalID: -9123803568368582540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd20acda061bdb50800000000000000
+      internalID: 6618908313258044866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39a3af9dcaae440800000000000000
+      internalID: 4965971591335416784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419795cd32d22d9a0800000000000000
+      internalID: -6209851304146536172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9389bac8824030800000000000000
+      internalID: 3477492266560625807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f648f7cf6173310800000000000000
+      internalID: 1384600684166672231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_67
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 295
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b8c50198c57890800000000000000
+      internalID: -7460836682476506133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_68
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9a002582f5762d0800000000000000
+      internalID: -3285552776364381735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695613cb7b1d6d490800000000000000
+      internalID: -7721753924013562474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 295
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431856f97f7f9050800000000000000
+      internalID: 5809502206131966794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_71
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 297
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d95987fdd5cb08c0800000000000000
+      internalID: -4031911484248729130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_72
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 297
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ba8161ae54b870800000000000000
+      internalID: 8697680827578497510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_91
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111756b1f6cc5f70800000000000000
+      internalID: 9177428882122805534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_92
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 263
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1f3aa0a45e414f0800000000000000
+      internalID: -858809522752065099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5fd6ccec1c90a0800000000000000
+      internalID: -6873587127999833336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 264
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba44ec4aa2f6330800000000000000
+      internalID: 3706227905672817498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 263
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8835533f00bbd10800000000000000
+      internalID: 2142307092316522719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 263
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796297cc270a31e00800000000000000
+      internalID: 1014330756005701271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 263
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b90ea42a77e9d0800000000000000
+      internalID: -2745091149901745361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6aae198326bac0800000000000000
+      internalID: -3839842560454791992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_134
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 199
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf51ce37ce2f77620800000000000000
+      internalID: 2771951193040885244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_135
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 202
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d6e2adffdce630800000000000000
+      internalID: 3957784453004579306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_136
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 203
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a50e220b20da1560800000000000000
+      internalID: 7285364230363940264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_137
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 201
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e60f845364cf5d0800000000000000
+      internalID: -3027467654828888445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 199
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e41cf5d678bf70800000000000000
+      internalID: 9203236499960949037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_139
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 202
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fadf6a06c964ae20800000000000000
+      internalID: 3360927521224776436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_140
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 203
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3493e20d6fcdac0800000000000000
+      internalID: -3828914209182628916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_141
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 203
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61266bed280fdc60800000000000000
+      internalID: 7844998069218582891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_142
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e0ee41464886d0800000000000000
+      internalID: -2988061106450142833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_143
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd9ace43f71ca730800000000000000
+      internalID: 4011607701846662623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 200
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af356cb1a4b246ef0800000000000000
+      internalID: -115920093111233542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_156
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 168
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a37a97e141b703d0800000000000000
+      internalID: -3240426510253132895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_157
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 168
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e9c44b067c9f30800000000000000
+      internalID: 4583668311527122610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_158
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 168
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60903dfbf7cab7c30800000000000000
+      internalID: 4358266729090189574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_159
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d646be9a0c14820800000000000000
+      internalID: 2900811471034543484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_160
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596e31398012db70800000000000000
+      internalID: 8922211993197111638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_161
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ad0dc9827618c0800000000000000
+      internalID: -4028906880460020793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_162
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 170
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ad1d4262fd07c0800000000000000
+      internalID: -4103357181450148054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_163
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 171
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8fc3bcf509245d0800000000000000
+      internalID: -3079740454061934405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_164
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 172
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95149d939d9f1c9e0800000000000000
+      internalID: -1602725280993427111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_165
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 174
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f224cfba23a760800000000000000
+      internalID: 7467859610228159647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_166
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 173
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23d402172c3fc4b0800000000000000
+      internalID: -5418045688199720150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_167
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 169
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4c6663430e7310800000000000000
+      internalID: 1404563721802238636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWeapon1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3f1d416904b820800000000000000
+      internalID: 2932979570835405823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWeapon2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9b276d63b1c9a0800000000000000
+      internalID: -6214488728330855153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWeapon3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 66
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279e432f134e6500800000000000000
+      internalID: 391324018643212072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellWeapon4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f9b13eb15188e0800000000000000
+      internalID: -1692982107594688289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrodellLeftWeapon
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd3cc60b7a59eb0800000000000000
+      internalID: -4713677058792498344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_225
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de0f11f3ab63320800000000000000
+      internalID: 2537420220116561241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_226
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86617971ec837800800000000000000
+      internalID: 608985274658154126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Brodell Walker_227
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 65
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60877bf0a5b4f40800000000000000
+      internalID: 5713759575798711989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

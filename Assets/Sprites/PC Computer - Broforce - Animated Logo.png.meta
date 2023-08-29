@@ -1,0 +1,3492 @@
+fileFormatVersion: 2
+guid: 2e8ed33963744074da3e5ea7ef313056
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -121256636803362455
+    second: PC Computer - Broforce - Animated Logo_0
+  - first:
+      213: -4148526478473690020
+    second: PC Computer - Broforce - Animated Logo_1
+  - first:
+      213: -7022313407390278776
+    second: PC Computer - Broforce - Animated Logo_2
+  - first:
+      213: -3629667538384322448
+    second: PC Computer - Broforce - Animated Logo_3
+  - first:
+      213: -661634516903418899
+    second: PC Computer - Broforce - Animated Logo_4
+  - first:
+      213: -4598348952958444847
+    second: PC Computer - Broforce - Animated Logo_5
+  - first:
+      213: 4318362447703498934
+    second: PC Computer - Broforce - Animated Logo_6
+  - first:
+      213: -567099936636072352
+    second: PC Computer - Broforce - Animated Logo_7
+  - first:
+      213: 5466599018153260008
+    second: PC Computer - Broforce - Animated Logo_8
+  - first:
+      213: 8968792193761678387
+    second: PC Computer - Broforce - Animated Logo_9
+  - first:
+      213: -6939040751176710416
+    second: PC Computer - Broforce - Animated Logo_10
+  - first:
+      213: 158380552969318353
+    second: PC Computer - Broforce - Animated Logo_11
+  - first:
+      213: -3675049326326253858
+    second: PC Computer - Broforce - Animated Logo_12
+  - first:
+      213: -4393838652178207156
+    second: PC Computer - Broforce - Animated Logo_13
+  - first:
+      213: 4012131606814081541
+    second: PC Computer - Broforce - Animated Logo_14
+  - first:
+      213: -2440840061250973682
+    second: PC Computer - Broforce - Animated Logo_15
+  - first:
+      213: -2078167561031687754
+    second: PC Computer - Broforce - Animated Logo_16
+  - first:
+      213: -4000793881312793903
+    second: PC Computer - Broforce - Animated Logo_17
+  - first:
+      213: 3494753797336258754
+    second: PC Computer - Broforce - Animated Logo_18
+  - first:
+      213: -1819795695645947892
+    second: PC Computer - Broforce - Animated Logo_19
+  - first:
+      213: -7364821263866555602
+    second: PC Computer - Broforce - Animated Logo_20
+  - first:
+      213: 8395244235939114883
+    second: PC Computer - Broforce - Animated Logo_21
+  - first:
+      213: 8715512797779967403
+    second: PC Computer - Broforce - Animated Logo_22
+  - first:
+      213: 3224346242978761321
+    second: PC Computer - Broforce - Animated Logo_23
+  - first:
+      213: -4074374690645849713
+    second: PC Computer - Broforce - Animated Logo_24
+  - first:
+      213: -8511712672410047559
+    second: PC Computer - Broforce - Animated Logo_25
+  - first:
+      213: -5484873595754720991
+    second: PC Computer - Broforce - Animated Logo_26
+  - first:
+      213: 5319910685229434676
+    second: PC Computer - Broforce - Animated Logo_27
+  - first:
+      213: 2747037017772013158
+    second: PC Computer - Broforce - Animated Logo_28
+  - first:
+      213: -2710880716960469734
+    second: PC Computer - Broforce - Animated Logo_29
+  - first:
+      213: -1223357965929827403
+    second: PC Computer - Broforce - Animated Logo_30
+  - first:
+      213: -7078151719832499521
+    second: PC Computer - Broforce - Animated Logo_31
+  - first:
+      213: -2674568005825293899
+    second: PC Computer - Broforce - Animated Logo_32
+  - first:
+      213: 6744502806811490719
+    second: PC Computer - Broforce - Animated Logo_33
+  - first:
+      213: 8837125061571307005
+    second: PC Computer - Broforce - Animated Logo_34
+  - first:
+      213: -1243683359431037280
+    second: PC Computer - Broforce - Animated Logo_35
+  - first:
+      213: -4342570285624525703
+    second: PC Computer - Broforce - Animated Logo_36
+  - first:
+      213: -4713131898624342113
+    second: PC Computer - Broforce - Animated Logo_37
+  - first:
+      213: -3357747744015036042
+    second: PC Computer - Broforce - Animated Logo_38
+  - first:
+      213: -8113830803809654480
+    second: PC Computer - Broforce - Animated Logo_39
+  - first:
+      213: 1752351923470974189
+    second: PC Computer - Broforce - Animated Logo_40
+  - first:
+      213: -8580108572255017526
+    second: PC Computer - Broforce - Animated Logo_41
+  - first:
+      213: -8345733496249667015
+    second: PC Computer - Broforce - Animated Logo_42
+  - first:
+      213: 5326804470672911252
+    second: PC Computer - Broforce - Animated Logo_43
+  - first:
+      213: 4088175884060307471
+    second: PC Computer - Broforce - Animated Logo_44
+  - first:
+      213: 5355359592267659949
+    second: PC Computer - Broforce - Animated Logo_45
+  - first:
+      213: -864330706221351420
+    second: PC Computer - Broforce - Animated Logo_46
+  - first:
+      213: -4217465779258716663
+    second: PC Computer - Broforce - Animated Logo_47
+  - first:
+      213: -328572053948074230
+    second: PC Computer - Broforce - Animated Logo_48
+  - first:
+      213: -4505978526419309496
+    second: PC Computer - Broforce - Animated Logo_49
+  - first:
+      213: -6082188525836604445
+    second: PC Computer - Broforce - Animated Logo_50
+  - first:
+      213: -5511588782569875616
+    second: PC Computer - Broforce - Animated Logo_51
+  - first:
+      213: -5742492126323693950
+    second: PC Computer - Broforce - Animated Logo_52
+  - first:
+      213: -5255987454049614567
+    second: PC Computer - Broforce - Animated Logo_53
+  - first:
+      213: 5172220503963087955
+    second: PC Computer - Broforce - Animated Logo_54
+  - first:
+      213: 9157583954941375545
+    second: PC Computer - Broforce - Animated Logo_55
+  - first:
+      213: -8077328466685009039
+    second: PC Computer - Broforce - Animated Logo_56
+  - first:
+      213: 7850132241375488117
+    second: PC Computer - Broforce - Animated Logo_57
+  - first:
+      213: 4122443019927495019
+    second: PC Computer - Broforce - Animated Logo_58
+  - first:
+      213: -5127870583419969348
+    second: PC Computer - Broforce - Animated Logo_59
+  - first:
+      213: 6779293491998879889
+    second: PC Computer - Broforce - Animated Logo_60
+  - first:
+      213: -1521897018074739184
+    second: PC Computer - Broforce - Animated Logo_61
+  - first:
+      213: 4957322206915219712
+    second: PC Computer - Broforce - Animated Logo_62
+  - first:
+      213: 5457806572349913173
+    second: PC Computer - Broforce - Animated Logo_63
+  - first:
+      213: 198107545327661124
+    second: PC Computer - Broforce - Animated Logo_64
+  - first:
+      213: 2360605003553364496
+    second: PC Computer - Broforce - Animated Logo_65
+  - first:
+      213: -8866146769302126777
+    second: PC Computer - Broforce - Animated Logo_66
+  - first:
+      213: 3014320413017481383
+    second: PC Computer - Broforce - Animated Logo_67
+  - first:
+      213: -8194508536142541871
+    second: PC Computer - Broforce - Animated Logo_68
+  - first:
+      213: 7685344246500615278
+    second: PC Computer - Broforce - Animated Logo_69
+  - first:
+      213: 160426157459468746
+    second: PC Computer - Broforce - Animated Logo_70
+  - first:
+      213: -5568372024986558157
+    second: PC Computer - Broforce - Animated Logo_71
+  - first:
+      213: -3952896084763743690
+    second: PC Computer - Broforce - Animated Logo_72
+  - first:
+      213: -1947623456101440083
+    second: PC Computer - Broforce - Animated Logo_73
+  - first:
+      213: -3388601599656517479
+    second: PC Computer - Broforce - Animated Logo_74
+  - first:
+      213: -7091282565108734751
+    second: PC Computer - Broforce - Animated Logo_75
+  - first:
+      213: -3101881424810052867
+    second: PC Computer - Broforce - Animated Logo_76
+  - first:
+      213: 7994875988618672747
+    second: PC Computer - Broforce - Animated Logo_77
+  - first:
+      213: -1839224382254660262
+    second: PC Computer - Broforce - Animated Logo_78
+  - first:
+      213: -5101339156060830098
+    second: PC Computer - Broforce - Animated Logo_79
+  - first:
+      213: -4853151727331283976
+    second: PC Computer - Broforce - Animated Logo_80
+  - first:
+      213: -8404429491781443257
+    second: PC Computer - Broforce - Animated Logo_81
+  - first:
+      213: 8986127443896037430
+    second: PC Computer - Broforce - Animated Logo_82
+  - first:
+      213: 4295413819083070103
+    second: PC Computer - Broforce - Animated Logo_83
+  - first:
+      213: 9176959452830305392
+    second: PC Computer - Broforce - Animated Logo_84
+  - first:
+      213: 7879714750953729590
+    second: PC Computer - Broforce - Animated Logo_85
+  - first:
+      213: -2826864411110138575
+    second: PC Computer - Broforce - Animated Logo_86
+  - first:
+      213: 1894155141655808055
+    second: PC Computer - Broforce - Animated Logo_87
+  - first:
+      213: -6894886315751446738
+    second: PC Computer - Broforce - Animated Logo_88
+  - first:
+      213: 1570284957581514843
+    second: PC Computer - Broforce - Animated Logo_89
+  - first:
+      213: 1259068276997664348
+    second: PC Computer - Broforce - Animated Logo_90
+  - first:
+      213: -7129835024452887893
+    second: PC Computer - Broforce - Animated Logo_91
+  - first:
+      213: -3149823976308997719
+    second: PC Computer - Broforce - Animated Logo_92
+  - first:
+      213: -2970619343503893993
+    second: PC Computer - Broforce - Animated Logo_93
+  - first:
+      213: 8040009438135078804
+    second: PC Computer - Broforce - Animated Logo_94
+  - first:
+      213: -3509775427929233429
+    second: PC Computer - Broforce - Animated Logo_95
+  - first:
+      213: -2090084296577984889
+    second: PC Computer - Broforce - Animated Logo_96
+  - first:
+      213: 7606703123479638363
+    second: PC Computer - Broforce - Animated Logo_97
+  - first:
+      213: -25804548598445552
+    second: PC Computer - Broforce - Animated Logo_98
+  - first:
+      213: -5826677167074624379
+    second: PC Computer - Broforce - Animated Logo_99
+  - first:
+      213: -8911293616373483849
+    second: PC Computer - Broforce - Animated Logo_100
+  - first:
+      213: -2697575648389783229
+    second: PC Computer - Broforce - Animated Logo_101
+  - first:
+      213: -240465513183047868
+    second: PC Computer - Broforce - Animated Logo_102
+  - first:
+      213: -6173462635002606716
+    second: PC Computer - Broforce - Animated Logo_103
+  - first:
+      213: -1311600294611962560
+    second: PC Computer - Broforce - Animated Logo_104
+  - first:
+      213: -3811932378022880232
+    second: PC Computer - Broforce - Animated Logo_105
+  - first:
+      213: -6384935859557651825
+    second: PC Computer - Broforce - Animated Logo_106
+  - first:
+      213: -3255066846417376391
+    second: PC Computer - Broforce - Animated Logo_107
+  - first:
+      213: -2874894925455343150
+    second: PC Computer - Broforce - Animated Logo_108
+  - first:
+      213: -837822343690288073
+    second: PC Computer - Broforce - Animated Logo_109
+  - first:
+      213: 5670610177880524233
+    second: PC Computer - Broforce - Animated Logo_110
+  - first:
+      213: -4063024435215572792
+    second: PC Computer - Broforce - Animated Logo_111
+  - first:
+      213: -5507380856082917389
+    second: PC Computer - Broforce - Animated Logo_112
+  - first:
+      213: 7891091969494055773
+    second: PC Computer - Broforce - Animated Logo_113
+  - first:
+      213: 5807591438469246418
+    second: PC Computer - Broforce - Animated Logo_114
+  - first:
+      213: -663757596499540318
+    second: PC Computer - Broforce - Animated Logo_115
+  - first:
+      213: 8443946304679389420
+    second: PC Computer - Broforce - Animated Logo_116
+  - first:
+      213: -1145809090926659435
+    second: PC Computer - Broforce - Animated Logo_117
+  - first:
+      213: -7154420325004523327
+    second: PC Computer - Broforce - Animated Logo_118
+  - first:
+      213: 2801511180896530230
+    second: PC Computer - Broforce - Animated Logo_119
+  - first:
+      213: 2599239151251001049
+    second: PC Computer - Broforce - Animated Logo_120
+  - first:
+      213: 1731083172827567246
+    second: PC Computer - Broforce - Animated Logo_121
+  - first:
+      213: -5208199892233169970
+    second: PC Computer - Broforce - Animated Logo_122
+  - first:
+      213: -4134417231855296457
+    second: PC Computer - Broforce - Animated Logo_123
+  - first:
+      213: -7133178600782575309
+    second: PC Computer - Broforce - Animated Logo_124
+  - first:
+      213: -2040595914436867279
+    second: PC Computer - Broforce - Animated Logo_125
+  - first:
+      213: -7226068512887871818
+    second: PC Computer - Broforce - Animated Logo_126
+  - first:
+      213: 6842698600301105829
+    second: PC Computer - Broforce - Animated Logo_127
+  - first:
+      213: 8484948993708922311
+    second: PC Computer - Broforce - Animated Logo_128
+  - first:
+      213: -8021183381015184100
+    second: PC Computer - Broforce - Animated Logo_129
+  - first:
+      213: -7848898536852239208
+    second: PC Computer - Broforce - Animated Logo_130
+  - first:
+      213: -1876613455737876594
+    second: PC Computer - Broforce - Animated Logo_131
+  - first:
+      213: 2663312379379001905
+    second: PC Computer - Broforce - Animated Logo_132
+  - first:
+      213: 2157128760515495626
+    second: PC Computer - Broforce - Animated Logo_133
+  - first:
+      213: -2028684645385872799
+    second: PC Computer - Broforce - Animated Logo_134
+  - first:
+      213: 7917052155905425742
+    second: PC Computer - Broforce - Animated Logo_135
+  - first:
+      213: -848306890809825888
+    second: PC Computer - Broforce - Animated Logo_136
+  - first:
+      213: -8273092389737720943
+    second: PC Computer - Broforce - Animated Logo_137
+  - first:
+      213: -682537219753429093
+    second: PC Computer - Broforce - Animated Logo_138
+  - first:
+      213: -7711221363515940130
+    second: PC Computer - Broforce - Animated Logo_139
+  - first:
+      213: 5826756385453501836
+    second: PC Computer - Broforce - Animated Logo_140
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1568
+        width: 168
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9615da43bb5315ef0800000000000000
+      internalID: -121256636803362455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1562
+        width: 184
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54064dc5297d66c0800000000000000
+      internalID: -4148526478473690020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1550
+        width: 183
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b1a0b692bbb8e90800000000000000
+      internalID: -7022313407390278776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1565
+        width: 221
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07006d9ca94d0adc0800000000000000
+      internalID: -3629667538384322448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1565
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3a5d099e661d6f0800000000000000
+      internalID: -661634516903418899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1565
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da5f998df16f20c0800000000000000
+      internalID: -4598348952958444847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e0ca34c7edeb30800000000000000
+      internalID: 4318362447703498934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e09acbc914128f0800000000000000
+      internalID: -567099936636072352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3368ef7d24ddb40800000000000000
+      internalID: 5466599018153260008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33416754bfc877c70800000000000000
+      internalID: 8968792193761678387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_10
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60720933393bf90800000000000000
+      internalID: -6939040751176710416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_11
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1430
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe017164ea23200800000000000000
+      internalID: 158380552969318353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1310
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f844eb1a9ffcc0800000000000000
+      internalID: -3675049326326253858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1272
+        width: 189
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e69808603f503c0800000000000000
+      internalID: -4393838652178207156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1263
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50245407074fda730800000000000000
+      internalID: 4012131606814081541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1263
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d79b75e4602ed0800000000000000
+      internalID: -2440840061250973682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1263
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b167f42d9dd823e0800000000000000
+      internalID: -2078167561031687754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_17
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1263
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da6bcc79235a78c0800000000000000
+      internalID: -4000793881312793903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1096
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8dcab001cdf7030800000000000000
+      internalID: 3494753797336258754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1096
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080d3dd479ceb6e0800000000000000
+      internalID: -1819795695645947892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1096
+        width: 189
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239dfcb416eac990800000000000000
+      internalID: -7364821263866555602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_21
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1204
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38febc51726e18470800000000000000
+      internalID: 8395244235939114883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_22
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1242
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badbb0b76b8b3f870800000000000000
+      internalID: 8715512797779967403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_23
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1128
+        width: 189
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a4d9d13dd2fbc20800000000000000
+      internalID: 3224346242978761321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_24
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1096
+        width: 189
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89463a4ec9e477c0800000000000000
+      internalID: -4074374690645849713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1136
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbeec2eb6250e980800000000000000
+      internalID: -8511712672410047559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 957
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121de175680d1e3b0800000000000000
+      internalID: -5484873595754720991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_27
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1066
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c7e5059e14d940800000000000000
+      internalID: 5319910685229434676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 976
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666362dfc9f6f1620800000000000000
+      internalID: 2747037017772013158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 976
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6d1dc954016ad0800000000000000
+      internalID: -2710880716960469734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_30
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 966
+        width: 189
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3bb9f5962c50fe0800000000000000
+      internalID: -1223357965929827403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_31
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 964
+        width: 189
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba4011338a55cd90800000000000000
+      internalID: -7078151719832499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_32
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 976
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b19825b19602ead0800000000000000
+      internalID: -2674568005825293899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 972
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99bf92a199499d50800000000000000
+      internalID: 6744502806811490719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 837
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e8a22c66c3aa70800000000000000
+      internalID: 8837125061571307005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 837
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae6c0ce29c8dbee0800000000000000
+      internalID: -1243683359431037280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 837
+        width: 189
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cfe2945571cb3c0800000000000000
+      internalID: -4342570285624525703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 841
+        width: 236
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970fea6287979eb0800000000000000
+      internalID: -4713131898624342113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_38
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 826
+        width: 174
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6715d988732e661d0800000000000000
+      internalID: -3357747744015036042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 710
+        width: 175
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ad437fd1e56f80800000000000000
+      internalID: -8113830803809654480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 709
+        width: 184
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb5ff3aca915810800000000000000
+      internalID: 1752351923470974189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 703
+        width: 185
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a47086b45de880800000000000000
+      internalID: -8580108572255017526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_42
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 698
+        width: 213
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b5fd4a9ffd2c80800000000000000
+      internalID: -8345733496249667015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_43
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 698
+        width: 235
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49beb66817c9ce940800000000000000
+      internalID: 5326804470672911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 565
+        width: 235
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00bbb47e4e1cb830800000000000000
+      internalID: 4088175884060307471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 563
+        width: 235
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa389ddc2f025a40800000000000000
+      internalID: 5355359592267659949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 565
+        width: 235
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb6375dc74104f0800000000000000
+      internalID: -864330706221351420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_47
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 563
+        width: 238
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e0be6083d8875c0800000000000000
+      internalID: -4217465779258716663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 430
+        width: 235
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07fd41357da07bf0800000000000000
+      internalID: -328572053948074230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 428
+        width: 238
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c2d37676c8771c0800000000000000
+      internalID: -4505978526419309496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_50
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 430
+        width: 235
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6d84b2c9b79ba0800000000000000
+      internalID: -6082188525836604445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_51
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 435
+        width: 235
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06715e23437e283b0800000000000000
+      internalID: -5511588782569875616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 300
+        width: 235
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286affc06d19e40b0800000000000000
+      internalID: -5742492126323693950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 305
+        width: 235
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158679024bfe07b0800000000000000
+      internalID: -5255987454049614567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_54
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 311
+        width: 235
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35436be052b67c740800000000000000
+      internalID: 5172220503963087955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_55
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 309
+        width: 235
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f81b8616461f70800000000000000
+      internalID: 9157583954941375545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 183
+        width: 319
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173e6191e8097ef80800000000000000
+      internalID: -8077328466685009039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 154
+        width: 259
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e6078ea541fc60800000000000000
+      internalID: 7850132241375488117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_58
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 154
+        width: 259
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612191c51cd53930800000000000000
+      internalID: 4122443019927495019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_59
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 154
+        width: 259
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e31d7fd426d8b0800000000000000
+      internalID: -5127870583419969348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 259
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190f5b24383e41e50800000000000000
+      internalID: 6779293491998879889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_61
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 10
+        width: 259
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ecde4b9b221eae0800000000000000
+      internalID: -1521897018074739184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_62
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001565c3842fbc440800000000000000
+      internalID: 4957322206915219712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_63
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 96
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55875bd29260ebb40800000000000000
+      internalID: 5457806572349913173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_64
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 96
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440749a43c1dfb200800000000000000
+      internalID: 198107545327661124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01adec36ebd82c020800000000000000
+      internalID: 2360605003553364496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_66
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 96
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff449fc7e15f480800000000000000
+      internalID: -8866146769302126777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0ad11f17405d920800000000000000
+      internalID: 3014320413017481383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_68
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db415a17e1474e80800000000000000
+      internalID: -8194508536142541871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 96
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e24d9fd3d7aa60800000000000000
+      internalID: 7685344246500615278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_70
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17d008db2f93200800000000000000
+      internalID: 160426157459468746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_71
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312471552b29b2b0800000000000000
+      internalID: -5568372024986558157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_72
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aef9944fd7429c0800000000000000
+      internalID: -3952896084763743690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_73
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 96
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5eade19c6a8f4e0800000000000000
+      internalID: -1947623456101440083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_74
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99027277cc449f0d0800000000000000
+      internalID: -3388601599656517479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e5c80414b69d90800000000000000
+      internalID: -7091282565108734751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_76
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 96
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df270d25747e3f4d0800000000000000
+      internalID: -3101881424810052867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_77
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 96
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7aec5a5183fe60800000000000000
+      internalID: 7994875988618672747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5549714b23c976e0800000000000000
+      internalID: -1839224382254660262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_79
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66043cc0176439b0800000000000000
+      internalID: -5101339156060830098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_80
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 96
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb6853973426acb0800000000000000
+      internalID: -4853151727331283976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_81
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ec82e7e77d5b80800000000000000
+      internalID: -8404429491781443257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ffc7bc4325bc70800000000000000
+      internalID: 8986127443896037430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_83
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a10c14c106c9b30800000000000000
+      internalID: 4295413819083070103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_84
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 96
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0d10300c1b5f70800000000000000
+      internalID: 9176959452830305392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_85
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea00641de5a5d60800000000000000
+      internalID: 7879714750953729590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_86
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 92
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1693abc5f4c8d0800000000000000
+      internalID: -2826864411110138575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_87
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 92
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738cfdfc014694a10800000000000000
+      internalID: 1894155141655808055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_88
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27eeee2d617050a0800000000000000
+      internalID: -6894886315751446738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_89
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5819c469d5cac510800000000000000
+      internalID: 1570284957581514843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_90
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ea8665deb197110800000000000000
+      internalID: 1259068276997664348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_91
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baad85c12dcbd0d90800000000000000
+      internalID: -7129835024452887893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 96
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1081338c39944d0800000000000000
+      internalID: -3149823976308997719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_93
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 96
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71adb83327d36c6d0800000000000000
+      internalID: -2970619343503893993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_94
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 93
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f44d67cf9d39f60800000000000000
+      internalID: 8040009438135078804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_95
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be722e808d5ca4fc0800000000000000
+      internalID: -3509775427929233429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_96
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d8dfe7678ef2e0800000000000000
+      internalID: -2090084296577984889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_97
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 92
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51bbd25030709960800000000000000
+      internalID: 7606703123479638363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_98
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 96
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a433756e254aff0800000000000000
+      internalID: -25804548598445552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_99
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c33a3dcfb732fa0800000000000000
+      internalID: -5826677167074624379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_100
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b63ad28ba9b45480800000000000000
+      internalID: -8911293616373483849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_101
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 96
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341abfa7d39409ad0800000000000000
+      internalID: -2697575648389783229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_102
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 96
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0ef9c3e1b9acf0800000000000000
+      internalID: -240465513183047868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_103
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 96
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bc58e1174735aa0800000000000000
+      internalID: -6173462635002606716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_104
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453b503b724ccde0800000000000000
+      internalID: -1311600294611962560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_105
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd22cd2bb491bc0800000000000000
+      internalID: -3811932378022880232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_106
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 44
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aa9612aa62467a0800000000000000
+      internalID: -6384935859557651825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_107
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 44
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b242303fda3d2d0800000000000000
+      internalID: -3255066846417376391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_108
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 48
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d149a11c425a18d0800000000000000
+      internalID: -2874894925455343150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_109
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 44
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734847374057f54f0800000000000000
+      internalID: -837822343690288073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_110
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c58840a9ed02be40800000000000000
+      internalID: 5670610177880524233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_111
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 48
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06e319dcc3d97c0800000000000000
+      internalID: -4063024435215572792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_112
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7146e6a4ad193b0800000000000000
+      internalID: -5507380856082917389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_113
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b71a3665ac28d60800000000000000
+      internalID: 7891091969494055773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_114
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2f82b4a5b89050800000000000000
+      internalID: 5807591438469246418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_115
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a68da39bfbd9c6f0800000000000000
+      internalID: -663757596499540318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_116
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce823e81d6cee2570800000000000000
+      internalID: 8443946304679389420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59837ead3b44910f0800000000000000
+      internalID: -1145809090926659435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_118
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c84542ce9466bc90800000000000000
+      internalID: -7154420325004523327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_119
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6f937397f0e620800000000000000
+      internalID: 2801511180896530230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_120
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 44
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8a989c3a521420800000000000000
+      internalID: 2599239151251001049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_121
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841b0959fa060810800000000000000
+      internalID: 1731083172827567246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_122
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d630dac1c8b7b0800000000000000
+      internalID: -5208199892233169970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_123
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 48
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e206ce699f96c0800000000000000
+      internalID: -4134417231855296457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_124
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cfe41bdbd10d90800000000000000
+      internalID: -7133178600782575309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_125
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b80edc3d85ea3e0800000000000000
+      internalID: -2040595914436867279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_126
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 48
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6eeae09f8d7bb90800000000000000
+      internalID: -7226068512887871818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a292007f1626fe50800000000000000
+      internalID: 6842698600301105829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_128
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51453972890c570800000000000000
+      internalID: 8484948993708922311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_129
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 48
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db25886380fa090800000000000000
+      internalID: -8021183381015184100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_130
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cc6d0bd5c131390800000000000000
+      internalID: -7848898536852239208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_131
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 48
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8606310ee4f5e0800000000000000
+      internalID: -1876613455737876594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_132
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 48
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a29ca8f7cf5f420800000000000000
+      internalID: 2663312379379001905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_133
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60e41cd29afed10800000000000000
+      internalID: 2157128760515495626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_134
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5c7e301aa8d3e0800000000000000
+      internalID: -2028684645385872799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_135
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41cbfc4df40fdd60800000000000000
+      internalID: 7917052155905425742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_136
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a3c890653a34f0800000000000000
+      internalID: -848306890809825888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_137
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19312b3ed42103d80800000000000000
+      internalID: -8273092389737720943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_138
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 48
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b973d9ec3042786f0800000000000000
+      internalID: -682537219753429093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_139
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 48
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2aa33960d3cf490800000000000000
+      internalID: -7711221363515940130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Broforce - Animated Logo_140
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 44
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de1b3af0cccd050800000000000000
+      internalID: 5826756385453501836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
